@@ -9,4 +9,4 @@ I designed the blog as a teaching tool first and foremost, but it is designed to
 
 ### About the Author
 
-My name is James Williamson. I'm a Senior Author at lynda.com and I've been writing and teaching web design and development for just over 15 years. I love what I do and hope you find this blog and course useful. If you see me out at a conference or event please say hello. My favorite form of communication is Twitter, where you'll find me ranting 140 characters at a time at [@jameswillweb](https://twitter.com/jameswillweb "my twitter profile"). 
+My name is Doug Harper. I'm an app developer who got started around the time Swift was announced and decided to make it my focus.  Previously I developed websites and still do occasional work on them.  I love working in both areas and enjoy learning and building new things.  My favorite form of communication is Twitter, please say hello at [@endodoug](https://twitter.com/endodoug "my twitter profile"). 
