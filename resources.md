@@ -5,6 +5,11 @@ title: Resources
 
 Here's a list of resources I found helpful in learing Swift, iOS, and tools of the trade.
 
+### Swift
+
+[Swift Blog](https://developer.apple.com/swift/blog/ "Official Swift Blog")
+: Keep up to date with the latest news directly from the Swift team at Apple.
+
 ### Jekyll
 
 [Official site](http://jekyllrb.com/ "Official Jekyll site")
