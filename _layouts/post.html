@@ -24,9 +24,10 @@ page-type: post
     <p class="nextLink"><a class="next" href="{{ site.baseurl }}{{page.next.url}}">{{page.next.title}}</a></p>
   {% endif %}
 	</section>
+	<!-- Post comments -->
+	<div> {% include disqus.html %} </div>
     </article>
         {% include sidebar.html %}
 </main>
-<!-- Post comments -->
-<div> {% include disqus.html %} </div>
+
 
