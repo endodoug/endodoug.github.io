@@ -23,6 +23,7 @@ Along the way I added a few more…
 I got to a `Minimum Viable Product` stage and it’s been released in Australia, Canada and Costa Rica.  Maybe I’ll get a few reviews and learn something.  I remember hearing a speaker at our Dallas App Developer Meetup mention the optimal update time was every 3 weeks, so I’ll be submitting version 1.1 for review on Feb 26th.   Here’s my current list of items to add/improve…
 
 ##Version 1.1 Update
+
 * Onboarding 
 * Quick Menu item to add a new quote
 * iPhone App Preview
@@ -31,6 +32,7 @@ I got to a `Minimum Viable Product` stage and it’s been released in Australia,
 * Tweak ASO 
 
 ##Version 1.2 Update
+
 * Submit March 18
 * Localize for Brazil
 * Tweak ASO
