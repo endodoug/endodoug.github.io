@@ -22,7 +22,7 @@ Along the way I added a few more…
 
 I got to a `Minimum Viable Product` stage and it’s been released in Australia, Canada and Costa Rica.  Maybe I’ll get a few reviews and learn something.  I remember hearing a speaker at our [Dallas App Developer Meetup](http://www.meetup.com/Dallas-App-Developers/ "Dallas App Developers) mention the optimal update time was every 3 weeks, so I’ll be submitting version 1.1 for review on Feb 26th.   Here’s my current list of items to add/improve…
 
-## Version 1.1 Update
+### Version 1.1 Update
 
 * Onboarding 
 * Quick Menu item to add a new quote
@@ -31,7 +31,7 @@ I got to a `Minimum Viable Product` stage and it’s been released in Australia,
 * Add a contact option to the menu
 * Tweak ASO 
 
-## Version 1.2 Update
+### Version 1.2 Update
 
 * Submit March 18
 * Localize for Brazil
