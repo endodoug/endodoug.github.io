@@ -11,7 +11,7 @@ Here's a list of resources I found helpful in learing Swift, iOS, and tools of t
 : Keep up to date with the latest news directly from the Swift team at Apple.
 
 [Swift.org](https://swift.org "Swift.org")
-: Official Swift Open Source Site.
+: Official Swift Open Source site.
 
 ### Jekyll
 
