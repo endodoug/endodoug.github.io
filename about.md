@@ -5,7 +5,7 @@ title: About this blog
 
 This site was created to help me learn the **Swift Language** and **iOS** development. I intend to keep track of my goals and progress, as well as, documenting helpful resources I come across or use often.  
 
-Swift is intended to be **Safe** and **Expressive** which is exactly how I intend on learning it.  I am going to learn the best practices and strive to take advantage of the intended features Swift offers.  
+Swift is designed to be **Safe** and **Expressive** which is exactly how I intend on learning it.  I am going to learn the best practices and strive to take advantage of the intended features Swift offers.  
 
 The blog was created with Jekyll straight from a [lynda.com](http://www.lynda.com) tutorial -> **Jekyll for Web Designers** by James Williamson.  It's a great course & I didn't make many changes to the design.  
 
