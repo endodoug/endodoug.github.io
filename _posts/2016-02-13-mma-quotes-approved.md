@@ -30,6 +30,7 @@ I got to a `Minimum Viable Product` stage and it’s been released in Australia,
 * Preload 3 or 4 quotes
 * Add a contact option to the menu
 * Tweak ASO 
+* Improve JPEG compression of images
 
 ### Version 1.2 Update
 
