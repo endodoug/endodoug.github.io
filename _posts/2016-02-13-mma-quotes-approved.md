@@ -28,7 +28,7 @@ I got to a `Minimum Viable Product` stage and it’s been released in Australia,
 * Quick Menu item to add a new quote
 * iPhone App Preview
 * Preload 3 or 4 quotes
-* Add a contact option to the menu
+* Improve App description
 * Tweak ASO 
 * Improve JPEG compression of images
 
@@ -36,5 +36,6 @@ I got to a `Minimum Viable Product` stage and it’s been released in Australia,
 
 * Submit March 18
 * Localize for Brazil
+* Add a contact option to the menu
 * Tweak ASO
 * Evaluate reviews
