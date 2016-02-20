@@ -18,6 +18,9 @@ Here's a list of resources I found helpful in learing Swift, iOS, and tools of t
 [RayWenderlich.com](http://www.raywenderlich.com "Ray Wenderlich.com")
 : Best website for iOS developers with lots of free tutorials & in-depth video tutorials for subscribers.
 
+[BitFountain](https://www.bitfountain.io "BitFountain.com")
+: Online iOS Education site.  Provides in-depth video tutorials covering the latest Swift features.  The site I'm using.
+
 ### Jekyll
 
 [Official site](http://jekyllrb.com/ "Official Jekyll site")
