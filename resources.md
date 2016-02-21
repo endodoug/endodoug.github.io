@@ -21,6 +21,9 @@ Here's a list of resources I found helpful in learing Swift, iOS, and tools of t
 [BitFountain](https://www.bitfountain.io "BitFountain.com")
 : Online iOS Education site.  Provides in-depth video tutorials covering the latest Swift features.  The site I'm using.
 
+[CartoonSmart](http://cartoonsmart.com "CartoonSmart")
+: The best site for learning Sprite Kit.  Lots of great free content for subscribers too.  Another site I subscribe to.
+
 ### Jekyll
 
 [Official site](http://jekyllrb.com/ "Official Jekyll site")
