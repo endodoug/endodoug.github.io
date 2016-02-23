@@ -19,7 +19,7 @@ Required skills for Jr iOS Developer is difficult to nail down as every employer
 >If you can do that, in a **well organized manner**, and can **discuss the choices you made to get your app built** you’ll have been able to do almost everything that was on that long and tedious list.
 <cite>&mdash; David Grandinetti</cite>
 
-In addition to David's *list* I'd include an understanding of Core Data, which is often overlooked, but mentioning frequently by people who've actively been through interviews. You'll also need to know your way around Xcode, debugging too.  And... nearly everyone mentions huge bonus points for building/distributing at least one app to the App Store. 
+In addition to David's *list* I'd include an understanding of **Core Data**, which is often overlooked, but mentioning frequently by people who've actively been through interviews. You'll also need to know your way around **Xcode**, debugging too.  And... nearly everyone mentions huge bonus points for **building/distributing at least one app to the App Store**. 
 
 [The Vital Guide to iOS Interviewing](http://www.toptal.com/ios "Guide to iOS Interviewing") is written for people/business looking to hire an iOS developer and it's a popular article on sites like LinkedIn. You're likely to see a few of these questions, so I'd suggest taking a look.   The article is focused more towards expert level developers, but it covers some important fundamentals to consider as you're learning.  Another important point is that Obj-C is still very relevant.
 
