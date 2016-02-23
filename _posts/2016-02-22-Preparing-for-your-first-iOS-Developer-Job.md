@@ -14,9 +14,9 @@ Required skills for Jr iOS Developer is difficult to nail down as every employer
 
 >I had a long list of specific things relating to Xcode and iOS. They were very tedious things like, “you should know how to add a new file to an Xcode project.” I’ve shortened that list to a general description here.
 
-I expect you to be able to start a new project, write some code to download a bit of JSON via HTTP, and use the parsed JSON to present some data in a `UITableView`.
+>I expect you to be able to start a new project, write some code to download a bit of JSON via HTTP, and use the parsed JSON to present some data in a `UITableView`.
 
-If you can do that, in a well organized manner, and can discuss the choices you made to get your app built you’ll have been able to do almost everything that was on that long and tedious list.
+>If you can do that, in a well organized manner, and can discuss the choices you made to get your app built you’ll have been able to do almost everything that was on that long and tedious list.
 <cite>&mdash; David Grandinetti</cite>
 
 [The Vital Guide to iOS Interviewing](http://www.toptal.com/ios "Guide to iOS Interviewing") is written for people/business looking to hire an iOS developer & it's a popular article on sites like LinkedIn.  This article is focused more towards expert level developers, but it covers some important fundamentals to consider as you're learning.  Another important point is that Obj-C is still very relevant.
