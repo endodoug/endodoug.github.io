@@ -27,4 +27,4 @@ In addition to David's *list* I'd include an understanding of Core Data, which i
 >since the frameworks for iOS development are by in large written in Objective-C, a basic knowledge of some Objective-C concepts are required to do iOS development and are therefore discussed in this guide.
 <cite>&mdash; Toptal</cite>
 
-
+My final three *skills* are related to my first point, character.  You should strive to write clean well thought out code.  [Swift](https://developer.apple.com/swift/ "Swift is awesome") is meant to be expressive, so make use of it. Attention to detail - that's what makes for great apps and can seperate you from others.  Passion, it might sound a like hokey, but if you don't love it why bother. 
