@@ -6,7 +6,7 @@ author: Doug Harper
 tags: [iOS, Jobs]
 ---
 
-What are the most important skills you need to land an iOS developer job?  Over the last year, I've been making the switch from web developer to iOS and this question has been on my mind often.   I've read articles, talked to developers, companies,recruiters, posted on forums, etc.. Here's some of the important things that stick out in my mind.  
+What are the most important skills you need to land an iOS developer job?  Over the last year, I've been making the switch from web developer to iOS and this question has been on my mind often.   I've read articles, talked to developers, companies, recruiters, posted on forums, etc.. Here's some of the important things that stick out in my mind.  
 
 Last year Dallas App Developers held a meetup - **Leading DFW App Development Companies: A Panel Discussion** A main focus of discussion was about employment, and how to get hired.  [Oven Bits](http://ovenbits.com "Oven Bits") & [bottle rocket](http://www.bottlerocketstudios.com "bottle rocket studios") both stressed character first, they are looking for quality people more than coding savants.  The ability to fit in, learn and contribute to the team are the biggest attributes you can have.  Everything else can be learned, to a certain degree.  Here's a quick example.  Nearly every article written about essential skills mentions version control (Github), but these companies put little emphasis on it.  Sure they use it, but it's easily learned and they have their own protocols you'll need to pick up anyway.
 
