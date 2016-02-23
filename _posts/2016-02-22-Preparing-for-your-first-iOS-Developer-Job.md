@@ -4,7 +4,7 @@ title: Preparing for your first iOS Developer Job
 date: 2016-02-22
 author: Doug Harper
 tags: iOS, Jobs
-published: false
+published: true
 ---
 
 What are the most important skills you need to land an iOS developer job?  Over the last year, I've been making the switch from web developer to iOS and this question has been on my mind often.   I've read articles, talked to developers, companies,recruiters, posted on forums, etc.. Here's some of the important things that stick out in my mind.  
