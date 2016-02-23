@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Preparing for your first iOS Developer Job
+title: Preparing for Your First iOS Developer Job
 date: 2016-02-22
 author: Doug Harper
 tags: iOS, Jobs
