@@ -7,7 +7,7 @@ tags: iOS, Jobs
 published: false
 ---
 
-What are the most important skills you need to land an iOS developer job?  Over the last year, I've been making the switch from web developer to iOS & this question has been on my mind often.   I've read articles, talked to developers, companies,recruiters, posted on forums, etc.. Here's some of the important things that stick out in my mind.  
+What are the most important skills you need to land an iOS developer job?  Over the last year, I've been making the switch from web developer to iOS and this question has been on my mind often.   I've read articles, talked to developers, companies,recruiters, posted on forums, etc.. Here's some of the important things that stick out in my mind.  
 
 Last year Dallas App Developers held a meetup - **Leading DFW App Development Companies: A Panel Discussion** A main focus of discussion was about employment, and how to get hired.  [Oven Bits](http://ovenbits.com "Oven Bits") & [bottle rocket](http://www.bottlerocketstudios.com "bottle rocket studios") both stressed character first, they are looking for quality people more than coding savants.  The ability to fit in, learn and contribute to the team is the biggest attributes you can have.  Everything else can be learned, to a certain degree.  Here's a quick example.  Nearly every article written about essential skills mentions version control (Github), but these companies put little emphasis on it.  Sure they use it, but it's easily learned and they have their own protocols you'll need to pick up anyway.
 
@@ -19,6 +19,8 @@ Required skills for Jr iOS Developer is difficult to nail down as every employer
 
 >If you can do that, in a **well organized manner**, and can **discuss the choices you made to get your app built** you’ll have been able to do almost everything that was on that long and tedious list.
 <cite>&mdash; David Grandinetti</cite>
+
+In addition to David's *list* I'd include an understanding of Core Data, which is often overlooked, but mentioning frequently by people who've actively been through interviews. You'll also need to know your way around Xcode, debugging too.  And... nearly everyone mentions huge bonus point for building/distributing at least one app to the App Store. 
 
 [The Vital Guide to iOS Interviewing](http://www.toptal.com/ios "Guide to iOS Interviewing") is written for people/business looking to hire an iOS developer & it's a popular article on sites like LinkedIn.  This article is focused more towards expert level developers, but it covers some important fundamentals to consider as you're learning.  Another important point is that Obj-C is still very relevant.
 
