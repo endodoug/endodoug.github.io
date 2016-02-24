@@ -8,3 +8,4 @@ published: false
 ---
 
 While working on fundamentals of functions I ran across Variadic Parameters, which I've seen before but make more sense now.  
+![Variadic Parameter Note]({{site.baseurl}}/images/Variadic_Parameters.png)
