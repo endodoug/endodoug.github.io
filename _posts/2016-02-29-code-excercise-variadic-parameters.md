@@ -33,7 +33,7 @@ The owner of a Food Truck wants keep track of daily total sales amounts.  The tr
     let mondaysSales = totalSales(saleAmount: 34.56, 47.56)
     let tuesdaysSales = totalSales("Tuesday", saleAmount: 23.45, 67.21, 45.21)
     
-I used a default parameter for day simple as an excercise since I'm practicing with parameters.  `saleAmount: Double...` is the variadic parameter and allows me to enter any number of sales into my function. 
+I used a default parameter for day simple as an excercise since I'm practicing with parameters.  `saleAmount: Double...` is the variadic parameter and allows me to enter any number of sales into my function *i.e. 2 sales on Monday, 3 sales on Tuesday.*
 
 ## Refactor #1
     enum DaysOfTheWeek{
