@@ -14,7 +14,7 @@ A variadic parameter accepts one or more values, which makes it very useful.  I 
 
 ## Food Truck Excercise
 
-The owner of a Food Truck wants keep track of daily total sales amounts.  The truck's crew should enter eash sale as it occurs.
+The owner of a Food Truck wants keep track of daily total sales amounts.  The truck's crew should enter each sale as it occurs.
 
 ### First Attempt
 
