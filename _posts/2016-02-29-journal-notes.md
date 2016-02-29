@@ -17,5 +17,5 @@ Tuesday - updated and submitted MMA Quotes version 1.1 to App Store
 Wednesday - coding fundementals of functions began working on Food Truck interactive book
 Thursay - coding fundamentals of classes continued working on Food Trucks.
 Friday - struggled with adding travis to my github acct. 
-Saturday - 
-Sunday
+Saturday - Coding Fundamentals videos
+Sunday - coding excercises variadic parameters
