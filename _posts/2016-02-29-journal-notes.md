@@ -21,3 +21,5 @@ Saturday - Coding Fundamentals videos
 Sunday - coding excercises variadic parameters
 
 March 2, 2016 - coding fundamentals of arrays. `append(_:)` adds an element to the end of an array.  Arrays are ordered and have a set position.  When working with sets `insert(_:)` simply inserts an item into the set, there is no order.  Arrays allow duplication of elements, but sets do not... so if you could add the same string 1000 times, but the set would only contain it once.
+
+Mar 3, 2016 - Dallas App Developersa meetup
