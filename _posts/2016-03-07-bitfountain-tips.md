@@ -4,7 +4,7 @@ title: "How I Maximize Bitfountain Tutorials"
 date: 2016-03-07
 author: Doug Harper
 tags: [Tutorials, Bitfountain]
-published: false
+published: true
 ---
 # How I Maximize Bitfountain Tutorials
 
