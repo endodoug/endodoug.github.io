@@ -17,8 +17,9 @@ I wish I had done it from the start.  Here’s the deal…  Eliot is getting rea
 
 ## Embrace the Playground
 
-1.  You’ll spend a lot of time working in playgrounds, so take maximum advantage of it.  
-Use the [Rich Comments](https://developer.apple.com/library/ios/recipes/Playground_Help/Chapters/RichMarkup.html#//apple_ref/doc/uid/TP40015166-CH39-SW1, "Xcode Rich Comments") to format your playground comments and show the rendered markup. **Editor > Show Rendered Markup**.  Not only does it look better, but your comments and notes are much easier to read when you return in the future.
+You’ll spend a lot of time working in playgrounds, so take maximum advantage of it. 
+
+1.  Use the [Rich Comments](https://developer.apple.com/library/ios/recipes/Playground_Help/Chapters/RichMarkup.html#//apple_ref/doc/uid/TP40015166-CH39-SW1, "Xcode Rich Comments") to format your playground comments and show the rendered markup. **Editor > Show Rendered Markup**.  Not only does it look better, but your comments and notes are much easier to read when you return in the future.
 
 2.  Instead of opening a new playground for each lesson within a subject, group them all within a single playground.  Take a look a the image below and you’ll see I’ve created an Enumerations playground and added pages (right click in the project navigator to find **Add New Playground Page**) for each lesson related to Enums.  Now, I can easily find anything we’ve covered in Enums without having to search through multiple playgrounds.
 
