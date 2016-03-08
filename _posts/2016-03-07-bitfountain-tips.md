@@ -6,13 +6,12 @@ author: Doug Harper
 tags: [Tutorials, Bitfountain]
 published: true
 ---
-# How I Maximize Bitfountain Tutorials
 
 [Bitfountain](https://www.bitfountain.io ,"Bitfountain") is an important part of my iOS Education.  I think anyone who tries their Foundations course can quickly see the quality and depth they offer.  Here’s a few tips I have for getting the most out of your time spent working through the material.
 
 ## Get Organized!
 
-I wish I had done it from the start.  Here’s the deal…  Eliot is getting ready to throw down a **LOT** of knowledge. Set up a couple folders, or more, that make sense to you.  It doesn’t have to be elaborate, just something that works for you.  Name your Xcode projects according to the category you’re working on; e.g. In the image you can see all my autolayout projects together. This makes your life much easier when you're going back trying to locate something specific.
+I wish I had done it from the start.  Here’s the deal…  Eliot is getting ready to throw down a **LOT** of knowledge. Set up a couple folders, or more, that make sense to you.  It doesn’t have to be elaborate, just something that works for *you*.  I stashed all the Xcode projects/examples in the iOS folder and all playgrounds go into the Swift folder.  Name your Xcode projects according to the category you’re working on; e.g. In the image you can see all my autolayout projects together. This makes your life much easier when going back trying to locate something specific.
 
 ![BitFountain Folders](/images/Bitfountain_Folders.png)
 
@@ -35,5 +34,5 @@ Check out the communities on Facebook and Slack.  Facebook is great for keeping 
 
 ## Do the Challenges - Watch the Solutions
 
-Eliot gives you a challenge at the end of each section, don’t skip them or cheat.  Make yourself think through the problem and come up with a solution.  More importantly watch the Challenge Solutions, in my opinion, some of the best lessons are found here.  You’ll see a few real world - type situations covered and possibly think of ways it relates to something you want to work on.
+Eliot gives you a challenge at the end of each section, don’t skip them or cheat.  Make yourself think through the problem and come up with a solution.  More importantly, watch the Challenge Solutions. In my opinion, some of the best lessons are found here.  You’ll see a few real world - type situations covered and possibly think of ways it relates to something you want to work on.
 
