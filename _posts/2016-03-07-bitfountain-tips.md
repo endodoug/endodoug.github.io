@@ -12,7 +12,7 @@ published: false
 
 ## Get Organized!
 
-I wish I had done it from the start.  Here’s the deal…  Eliot is getting ready to throw down a **LOT** of knowledge. Set up a couple folders, or more, that make sense to you.  It doesn’t have to be elaborate, just something that works for you.  Name your Xcode projects according to the category you’re working on; e.g. You can see all my autolayout projects together. This makes your life much easier when you're going back trying to locate something specific.
+I wish I had done it from the start.  Here’s the deal…  Eliot is getting ready to throw down a **LOT** of knowledge. Set up a couple folders, or more, that make sense to you.  It doesn’t have to be elaborate, just something that works for you.  Name your Xcode projects according to the category you’re working on; e.g. In the image you can see all my autolayout projects together. This makes your life much easier when you're going back trying to locate something specific.
 
 ![BitFountain Folders](/images/Bitfountain_Folders.png)
 
