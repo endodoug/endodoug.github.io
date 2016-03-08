@@ -35,5 +35,5 @@ Check out the communities on Facebook and Slack.  Facebook is great for keeping 
 
 ## Do the Challenges - Watch the Solutions
 
-Eliot gives you a challenge at the end of each section, don’t skip them or cheat.  Make yourself think through the problem and come up with a solution.  More importantly, watch the Challenge Solutions. In my opinion, some of the best lessons are found here.  You’ll see a few real world - type situations covered and possibly think of ways it relates to something you want to work on.
+Eliot gives you a challenge at the end of each section, don’t skip them or cheat.  Make yourself think through the problem and come up with a solution.  More importantly, watch the Challenge Solutions. In my opinion, some of the best lessons are found here.  You’ll see a few real world situations covered and possibly think of ways it relates to something you want to work on.
 
