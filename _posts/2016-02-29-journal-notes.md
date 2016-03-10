@@ -33,3 +33,5 @@ March 8, 2016 - If you don't specify what a case is equal to the compiler automa
  `enum ColorName : String {
   case Black
 }`
+
+March 9, 2016 - Watched Swift2 Essentials on Lynda.com.  Added Alexandria to Awesome-Swift. Continued learning about Enums, Structs, Classes
