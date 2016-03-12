@@ -38,3 +38,5 @@ March 9, 2016 - Watched Swift2 Essentials on Lynda.com.  Added Alexandria to Awe
 Swift Std Library Team suggests you create a new model by designing the interface using a protocol first.
 
 March 10, 2016 - Continued working on Enums, Structs & Protocols UFC Playground
+
+March 11, 2016 - Finished up Enums and will do quick review after bedtime.
