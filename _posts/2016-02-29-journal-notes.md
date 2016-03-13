@@ -40,3 +40,5 @@ Swift Std Library Team suggests you create a new model by designing the interfac
 March 10, 2016 - Continued working on Enums, Structs & Protocols UFC Playground
 
 March 11, 2016 - Finished up Enums and will do quick review after bedtime.
+
+March 12, 2016 - Started UFC Demo Tutorial app. Set up storyboard and autolayout.
