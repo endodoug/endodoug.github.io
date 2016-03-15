@@ -56,3 +56,48 @@ Finally, I [loop through(Swift way)](https://www.hackingwithswift.com/swift2-2?u
 205 lbs is the maximum weight for light heavyweights
 265 lbs is the maximum weight for heavyweights
 ~~~~~~~
+
+## Extensions and Protocols
+
+You can add some versatility be creating a another enum this time with associated values.  
+
+        enum UFCWeightClasses {
+            case Named(WeightClasses)
+            case Weight(Int)
+        }
+        
+Then add extension to conform to the `CustomStringConvertible` which uses a computed property to print out an string.
+
+        extension UFCWeightClasses: CustomStringConvertible {
+            var description: String {
+            switch self {
+            case .Named(let weightClassName):
+            return weightClassName.rawValue
+            case .Weight(let pounds):
+            return String(pounds)
+                }
+            }
+        }
+        
+        print(UFCWeightClasses.Weight(125))
+        print(UFCWeightClasses.Named(.LightHeavyweight))
+
+~~~~~~~
+125
+light heavyweight
+~~~~~~~
+
+Why not add one more extension with an initializer to cover cases where we need to include a catchweight bout.
+
+        extension UFCWeightClasses {
+            init(catchweight: Int) {
+            self = .Weight(catchweight)
+            }
+        }
+
+~~~~~~~
+let catchweight = UFCWeightClasses.init(catchweight: 160)
+print(catchweight)
+~~~~~~~
+
+Th
