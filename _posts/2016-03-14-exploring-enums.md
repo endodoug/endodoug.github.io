@@ -46,4 +46,4 @@ Finally, I [loop through(Swift way)](https://www.hackingwithswift.com/swift2-2?u
            print( "\(value) lbs is the maximum weight for \(weightClass.rawValue.lowercaseString)s")
         }
     }
-![enum console image](/images/enum-console.png, "weight classes")
+![enum console image](/images/enum-console.png "weight classes")
