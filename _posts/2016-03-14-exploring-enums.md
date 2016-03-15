@@ -10,7 +10,7 @@ I'm learning enums in Swift are very powerful.  When I first started studying Sw
 
 ## Using an Enum as a Dictionary
 
-Dot notation and code completion in Xcode makes enums very convenient when creating dictionary keys.  First, I set up my enum...
+Dot notation and code completion in Xcode makes enums very convenient when creating dictionary keys. Xcode automatically assigns a String to each member (case) if you don't specify one. I used a string literal for `case LightHeavyweight = "Light Heavyweight"` for spacing between the words, it also makes a great example.  First, I set up my enum...
 
 
     enum WeightClasses: String  [
@@ -24,7 +24,6 @@ Dot notation and code completion in Xcode makes enums very convenient when creat
       case Heavyweight
     ]
 
-I used a string literal for `case LightHeavyweight = "Light Heavyweight"` for spacing between the words.
 
 Next, I created an array of dictionaries using my WeightClasses enum as the key for the values. 
 
