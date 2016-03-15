@@ -47,4 +47,4 @@ Finally, I [loop through(Swift way)](https://www.hackingwithswift.com/swift2-2?u
         }
     }
     
-![enum console image](/images/enum-console.png "weight classes")
+![enum console image](/images/enum-console.png)
