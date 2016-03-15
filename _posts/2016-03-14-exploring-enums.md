@@ -46,5 +46,14 @@ Finally, I [loop through(Swift way)](https://www.hackingwithswift.com/swift2-2?u
            print( "\(value) lbs is the maximum weight for \(weightClass.rawValue.lowercaseString)s")
         }
     }
-    
-![enum console image](/images/enum-console.png)
+   
+~~~~~~~    
+125 lbs is the maximum weight for flyweights
+135 lbs is the maximum weight for bantamweights
+145 lbs is the maximum weight for featherweights
+155 lbs is the maximum weight for lightweights
+170 lbs is the maximum weight for welterweights
+185 lbs is the maximum weight for middleweights
+205 lbs is the maximum weight for light heavyweights
+265 lbs is the maximum weight for heavyweights
+~~~~~~~
