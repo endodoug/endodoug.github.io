@@ -66,7 +66,7 @@ You can add some versatility be creating a another enum this time with associate
             case Weight(Int)
         }
         
-Then add extension to conform to the `CustomStringConvertible` which uses a computed property to print out an string.
+Then add an extension to conform to the `CustomStringConvertible` which uses a computed property to print out an string.
 
         extension UFCWeightClasses: CustomStringConvertible {
             var description: String {
@@ -99,5 +99,3 @@ Why not add one more extension with an initializer to cover cases where we need 
 let catchweight = UFCWeightClasses.init(catchweight: 160)
 print(catchweight)
 ~~~~~~~
-
-Th
