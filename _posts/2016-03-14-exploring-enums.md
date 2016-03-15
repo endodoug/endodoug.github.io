@@ -39,11 +39,11 @@ Next, I created an array of dictionaries using my WeightClasses enum as the key 
       [.Heavyweight: 265]
     ]
 
-Finally, I [loop through(Swift way)](https://www.hackingwithswift.com/swift2-2?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=web&utm_source=This_Week_in_Swift_78) the dictionary and print out something useful.
+Finally, I [loop through(Swift way)](https://www.hackingwithswift.com/swift2-2?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=web&utm_source=This_Week_in_Swift_78) the dictionary and print out the results using the `.rawValue` & `.lowercaseString` to return the string literals and format them.
 
     for fighter in mmaWeightClasses {
         for (weightClass, value) in fighter {
-           print( "\(value) lbs is the maximum weight for \(weightClass.rawValue.lowercaseString)s")
+           print( "\(value) lbs is the maximum weight for \(weightClass.rawValue.lowercaseString)s.")
         }
     }
    
