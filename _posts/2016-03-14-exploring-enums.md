@@ -6,7 +6,7 @@ author: Doug Harper
 tags: [Tutorials, Swift, Enums, Dictionary]
 published: true
 ---
-I'm learning Enums in Swift are very powerful.  When I first started studying Swift, I blew by enums, just enough to recognize the syntax and get a general idea about how to use them.  As I learn more, it's obvious that enums are a great tool to be used in more situations than I imagined. 
+I'm learning enums in Swift are very powerful.  When I first started studying Swift, I blew by enums, just enough to recognize the syntax and get a general idea about how to use them.  As I learn more, it's obvious that enums are a great tool to be used in more situations than I imagined. 
 
 ## Using an Enum as a Dictionary
 
