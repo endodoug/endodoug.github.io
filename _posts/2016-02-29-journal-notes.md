@@ -42,3 +42,12 @@ March 10, 2016 - Continued working on Enums, Structs & Protocols UFC Playground
 March 11, 2016 - Finished up Enums and will do quick review after bedtime.
 
 March 12, 2016 - Started UFC Demo Tutorial app. Set up storyboard and autolayout.
+
+March 13 - 18, 2016 - Working on TaterTalk and continuing watching Swift2 Essentials
+* `private` keyword makes the constant/variable private to the class which creates it.
+* use `override init` to add instructions and initialize **custom classes**.
+* when we create a custom initializer, we should also call the `init(coder aDecoder: NSCoder)` initializer. -> (coder aDecoder) Xcode will suggest with fixit.
+* `UIImage.imageRenderingMode(.AlwaysTemplate)` lets you color an image in code.
+* `edgeInsets` in UIKit are great for buttons that use image backgrounds
+* `tableView.estimatedRowHeight` - set it to any positive number.  It will dynamically draw the row height to fit your content.  The more accurrate your estimate the less work the program will have to do.
+* 
