@@ -13,9 +13,9 @@ I’m going to build an app that displays the top ranked UFC fighters in each we
 
 ![UFC Rankings Gif](/images/UFCRankings.gif "UFC Rankings")
 
-Let’s set up the storyboard first.  It will be a simple UIPickerView that transitions to a tableview that displays the results we select.
+Let’s set up the storyboard first.  It's a simple table view with a prototype cell sitting on top of my picker view.  I then embedded the view controller into a navigation controller and titled it UFC Rankings.   
 
-image here
+![UFC Rankings Storyboard Screenshot](/images/UFCRankingsStoryboard.png "UFC Rankings Storyboard Screenshot")
 
 Next, I set up the enum to include all the UFC weight classes.  Then create and array    using dot notation and autocomplete since that’s one of the great benefits we get from setting up enum.  We’ll use the array to set up the picker view options.  
 
