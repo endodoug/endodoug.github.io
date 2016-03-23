@@ -4,12 +4,12 @@ title: "Create a Picker View with Enums"
 date: 2016-03-21
 author: Doug Harper
 tags: [Tutorials, Swift, Enums, Picker View]
-published: false
+published: true
 ---
 
 I’ve been working with enums for a couple weeks, learning how powerful and convenient they can be.  Here’s a quick example of a picker view that will be populated using and enum/array combination.  
 
-I’m going to build an app that displays the top ranked UFC fighters in each weight class,  which you’ll choose with the picker.  This is what it will look like when finished.
+I’m going to build an app that displays the top ranked UFC fighters in each weight class,  which you’ll choose with the picker.  This will be a work-in-progress but should turn out like this when finished.
 
 ![UFC Rankings Gif](/images/UFCRankings.gif "UFC Rankings")
 
@@ -27,7 +27,7 @@ Let’s set up the storyboard first.  It's a simple table view (rankingsTableVie
 
 Next, I set up the enum to include all the UFC weight classes.  Then create and array using dot notation and autocomplete since that’s one of the great benefits we get from setting up enum.  We’ll use the array to set up the picker view options in the next step.  
 
-    enum WeightClasses: String {
+    enum WeightClass: String {
         case Flyweight
         case Bantamweight
         case Featherweight
@@ -38,7 +38,7 @@ Next, I set up the enum to include all the UFC weight classes.  Then create and 
         case Heavyweight
     }
     
-    let pickerDataArray: [String] = [
+    let pickerDataArray = [
         WeightClasses.Flyweight.rawValue,
         WeightClasses.Bantamweight.rawValue,
         WeightClasses.Featherweight.rawValue,
@@ -54,7 +54,7 @@ Next, I set up the enum to include all the UFC weight classes.  Then create and 
 
 Start off by creating a global variable to store the value we'll get when the picker row is selected.
 
-`var pickerViewWeightClassSelection = WeightClasses.Flyweight.rawValue`
+`var pickerViewWeightClassSelection = WeightClass.Flyweight.rawValue`
 
 Now we need to conform to the UIPickerViewDataSource Protocol by extended the PickerViewController
 
@@ -79,9 +79,7 @@ Now go to viewDidLoad() and load the plist data into the fighterData array
     let path = NSBundle.mainBundle().pathForResource("FighterData", ofType: "plist")
         let dict = NSDictionary(contentsOfFile: path!)
         
-        fighterData = dict!.objectForKey(WeightClasses.Flyweight.rawValue) as! [String]
+        fighterData = dict!.objectForKey(WeightClass.Flyweight.rawValue) as! [String]
 
 
-image
 
-Grab the data from a plist to display in the tableView.
