@@ -11,7 +11,7 @@ I’ve been working with enums for a couple weeks, learning how powerful and con
 
 I’m going to build an app that displays the top ranked UFC fighters in each weight class,  which you’ll choose with the picker.  This is what it will look like when finished.
 
-gif image here
+![UFC Rankings Gif](/images/UFCRankings.gif "UFC Rankings")
 
 Let’s set up the storyboard first.  It will be a simple UIPickerView that transitions to a tableview that displays the results we select.
 
