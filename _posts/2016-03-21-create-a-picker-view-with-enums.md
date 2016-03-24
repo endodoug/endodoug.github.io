@@ -54,7 +54,7 @@ Next, I set up the enum to include all the UFC weight classes.  Then create and 
 
 Start off by creating a global variable to store the value we'll get when the picker row is selected.
 
-        `var pickerViewWeightClassSelection = WeightClass.Flyweight.rawValue`
+        var pickerViewWeightClassSelection = WeightClass.Flyweight.rawValue
 
 Now we need to conform to the UIPickerViewDataSource Protocol by extending the PickerViewController
 
