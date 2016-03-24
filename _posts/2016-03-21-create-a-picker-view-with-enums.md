@@ -7,7 +7,7 @@ tags: [Tutorials, Swift, Enums, Picker View]
 published: true
 ---
 
-I’ve been working with enums for a couple weeks, learning how powerful and convenient they can be.  Here’s a quick example of a picker view that will be populated using and enum/array combination.  
+I’ve been working with enums for a couple weeks, learning how powerful and convenient they can be.  Here’s a quick example of a picker view that will be populated using an enum/array combination.  
 
 I’m going to build an app that displays the top ranked UFC fighters in each weight class,  which you’ll choose with the picker.  This will be a work-in-progress but should turn out like this when finished.
 
