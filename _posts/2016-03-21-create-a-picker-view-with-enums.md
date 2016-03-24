@@ -56,7 +56,7 @@ Start off by creating a global variable to store the value we'll get when the pi
 
 `var pickerViewWeightClassSelection = WeightClass.Flyweight.rawValue`
 
-Now we need to conform to the UIPickerViewDataSource Protocol by extended the PickerViewController
+Now we need to conform to the UIPickerViewDataSource Protocol by extending the PickerViewController
 
     extension PickerViewController: UIPickerViewDataSource {
       func numberOfComponentsInPickerView(pickerView: UIPickerView) -> Int {
@@ -68,18 +68,21 @@ Now we need to conform to the UIPickerViewDataSource Protocol by extended the Pi
       }
     }
 
-The number of components is set to 1 and the number of rows is set to the count of the PickerDataArray.   Now the only thing left to do is populate the rankingsTableView with the data.  I added a FighterData.plist for this example, but it could easily come from url.  
+The number of components is set to 1 and the number of rows is set to the count of the PickerDataArray.   Now the only thing left to do is include a title for each row on the picker wheel.  I make another extension conforming to the `UIPickerViewDelegate` and use the `pickerDataArray` for each row.  
 
-Add another global variable to store the fighter data, I used an array.
+        extension PickerViewController: UIPickerViewDelegate {
+            func pickerView(pickerView: UIPickerView, titleForRow row: Int, forComponent component: Int) -> String? {
+            return pickerDataArray[row]
+        }
+    }
 
-`var fighterData = [String]()`
+Don't forget to assign the the delegate in `viewDidLoad()`
 
-Now go to viewDidLoad() and load the plist data into the fighterData array
-
-    let path = NSBundle.mainBundle().pathForResource("FighterData", ofType: "plist")
-        let dict = NSDictionary(contentsOfFile: path!)
+        weightClasses.delegate = self
         
-        fighterData = dict!.objectForKey(WeightClass.Flyweight.rawValue) as! [String]
+Now you're ready to use the picker selections to add data however you want.
+
+
 
 
 
