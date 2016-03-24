@@ -54,7 +54,7 @@ Next, I set up the enum to include all the UFC weight classes.  Then create and 
 
 Start off by creating a global variable to store the value we'll get when the picker row is selected.
 
-`var pickerViewWeightClassSelection = WeightClass.Flyweight.rawValue`
+        `var pickerViewWeightClassSelection = WeightClass.Flyweight.rawValue`
 
 Now we need to conform to the UIPickerViewDataSource Protocol by extending the PickerViewController
 
@@ -68,7 +68,7 @@ Now we need to conform to the UIPickerViewDataSource Protocol by extending the P
       }
     }
 
-The number of components is set to 1 and the number of rows is set to the count of the PickerDataArray.   Now the only thing left to do is include a title for each row on the picker wheel.  I make another extension conforming to the `UIPickerViewDelegate` and use the `pickerDataArray` for each row.  
+The number of components is set to 1 and the number of rows is set to the count of the `pickerDataArray`.   Now the only thing left to do is include a title for each row on the picker wheel.  I make another extension conforming to the `UIPickerViewDelegate` and use the `pickerDataArray` for each row.  
 
         extension PickerViewController: UIPickerViewDelegate {
             func pickerView(pickerView: UIPickerView, titleForRow row: Int, forComponent component: Int) -> String? {
