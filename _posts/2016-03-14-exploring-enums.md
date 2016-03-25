@@ -13,7 +13,7 @@ I'm learning enums in Swift are very powerful.  When I first started studying Sw
 Dot notation and code completion in Xcode makes enums very convenient when creating dictionary keys. Xcode automatically assigns a String to each member (case) if you don't specify one. I used a string literal for `case LightHeavyweight = "Light Heavyweight"` for spacing between the words, it also makes a great example.  First, I set up my enum...
 
 
-    enum WeightClasses: String  [
+    enum WeightClass: String  [
       case Flyweight
       case Bantamweight
       case Featherweight
@@ -25,9 +25,9 @@ Dot notation and code completion in Xcode makes enums very convenient when creat
     ]
 
 
-Next, I created an array of dictionaries using my WeightClasses enum as the key for the values. 
+Next, I created an array of dictionaries using my WeightClass enum as the key for the values. 
 
-    let mmaWeightClasses: [[WeightClasses: Int]] = [
+    let mmaWeightClasses: [[WeightClass: Int]] = [
       [.Flyweight: 125],
       [.Bantamweight: 135],
       [.Featherweight: 145],
@@ -61,8 +61,8 @@ Finally, I [loop through(Swift way)](https://www.hackingwithswift.com/swift2-2?u
 
 You can add some versatility be creating a another enum this time with associated values.  
 
-        enum UFCWeightClasses {
-            case Named(WeightClasses)
+        enum UFCWeightClass {
+            case Named(WeightClass)
             case Weight(Int)
         }
         
@@ -79,8 +79,8 @@ Then add an extension to conform to the `CustomStringConvertible` which uses a c
             }
         }
         
-        print(UFCWeightClasses.Weight(125))
-        print(UFCWeightClasses.Named(.LightHeavyweight))
+        print(UFCWeightClass.Weight(125))
+        print(UFCWeightClass.Named(.LightHeavyweight))
 
 ~~~~~~~
 125
@@ -89,13 +89,13 @@ light heavyweight
 
 Why not add one more extension with an initializer to cover cases where we need to include a catchweight bout.
 
-        extension UFCWeightClasses {
+        extension UFCWeightClass {
             init(catchweight: Int) {
             self = .Weight(catchweight)
             }
         }
 
 ~~~~~~~
-let catchweight = UFCWeightClasses.init(catchweight: 160)
+let catchweight = UFCWeightClass.init(catchweight: 160)
 print(catchweight)
 ~~~~~~~
