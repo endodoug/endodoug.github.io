@@ -68,7 +68,7 @@ You can add some versatility be creating a another enum this time with associate
         
 Then add an extension to conform to the `CustomStringConvertible` which uses a computed property to print out an string.
 
-        extension UFCWeightClasses: CustomStringConvertible {
+        extension UFCWeightClass: CustomStringConvertible {
             var description: String {
             switch self {
             case .Named(let weightClassName):
