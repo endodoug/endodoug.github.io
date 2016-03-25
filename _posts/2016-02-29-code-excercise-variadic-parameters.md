@@ -36,11 +36,11 @@ The owner of a Food Truck wants keep track of daily total sales amounts.  The tr
 I used a default parameter for day simple as an excercise since I'm practicing with parameters.  `saleAmount: Double...` is the variadic parameter and allows me to enter any number of sales into my function *i.e. 2 sales on Monday, 3 sales on Tuesday.*
 
 ## Refactor #1
-    enum DaysOfTheWeek{
+    enum DayOfTheWeek{
       case Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
     }
   
-    func totalSales(day: DaysOfTheWeek, saleAmount: Double...) {
+    func totalSales(day: DayOfTheWeek, saleAmount: Double...) {
     var sum = 0.0
     
     for sale in saleAmount {
