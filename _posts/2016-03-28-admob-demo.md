@@ -37,9 +37,9 @@ You'll have to add the Google Mobile Ads SDK to your project using CocoaPods or 
         }
       }
 
-I set the `bannerView` on a storyboard using the autolayout pins and recommended sizes for banner ads.  Next I cntr dragged for the @IBOutlet connection and entered the code above.  Use Google’s sample `adUnitID` for your `bannerView` until you’re ready to go live.  
+I set up the `bannerView` on a storyboard using the autolayout pins and recommended sizes for banner ads.  Next I control dragged for the `@IBOutlet` connection and entered the code above.  Use Google’s sample `adUnitID` for your `bannerView` until you’re ready to go live.  
 
-> You should also be aware of the App Transport Security privacy feature of iOS 9, it could effect the ads being served and its easily resolved [iOS 9 Considerations](https://developers.google.com/admob/ios/ios9 "iOS 9 Considerations for AdMob")
+> You should also be aware of the App Transport Security privacy feature of iOS 9, it could effect the ads being served and its easily resolved with [iOS 9 Considerations](https://developers.google.com/admob/ios/ios9 "iOS 9 Considerations for AdMob").
 
 ## Interstitial Ad
 
