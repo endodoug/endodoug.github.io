@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "My 3 Favorite Xcode Tips for Beginners"
-date: 2016-03-28
+date: 2016-04-05
 author: Doug Harper
-tags: [Demo, Swift, Admob]
-published: false
+tags: [Xcode, Swift, Tips]
+published: true
 ---
 
 Here are 3 of my favorite Xcode features that can help beginners learn a little quicker. 
