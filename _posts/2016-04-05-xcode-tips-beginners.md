@@ -23,7 +23,7 @@ I’m obsessed with proper alignment, even when working on a simple example app�
 
 What in the world is _highlight symbol in scope_? It's a faint underline you get when you click on a piece of code.   If you look closer you’ll see Xcode has also underlined all the relevant (more precisely, in scope) uses of that same code.  Beginners often struggle with `self`, at least I did, using this feature can help gain a better understanding of how `self` is being used in many situations - like the class init below.   **Pro tip:** Control + Command E toggles to allow edit all at the same time. Thanks to [@ericasadun](https://twitter.com/ericasadun "Erica Sadun twitter") for this awesome tip.  
 
-![Highlight Symbol in Scope](/images/highlightInScope.gif "Highlight In Scope gif")
+![Highlight Symbol in Scope](/images/HighlightSymbolInScope.gif "Highlight In Scope gif")
 
 ## Debug View Hierarchy
 
