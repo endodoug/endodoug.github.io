@@ -9,7 +9,7 @@ published: true
 
 Auto layout could be considered an everyday skill needed for an iOS developer.  Last week I vowed to learn the ins-n-outs, so I’m starting from beginning -> using constraints in Interface Builder.  Auto layout is a big subject,  I’m going to add to this post as I as go along.  I’ll update the resources pages with links to relevant matter, as well as, add links to the bottom of this post. 
 
-## Why Use Autolayout?
+## Why Use Auto Layout?
 
 Most iOS developers are aware of the importance of supporting multiple devices and orientations, but localization is another very important aspect of auto layout.  Here’s an image from [RayWenderlich's Auto Layout Series](https://www.raywenderlich.com/video-tutorials#autolayout) showing common reasons to use auto layout. 
 
