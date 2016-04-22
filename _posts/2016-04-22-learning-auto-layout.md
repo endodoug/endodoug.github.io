@@ -27,7 +27,7 @@ I’m starting off with the common situation of laying out buttons.  I want the 
 **Red Button**
 
 1.  Pin the right side to standard value.
-2.  Control drag to blue button and choose horizontal spacing,equal widths & baseline.
+2.  Control drag to blue button and choose horizontal spacing, equal widths & baseline.
 3.  Resolve Auto Layout by updating all frames.
 
 ![Autolayout Constraints](/images/constraints.png "Auto layout constraints image")
