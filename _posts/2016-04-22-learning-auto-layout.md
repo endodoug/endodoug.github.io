@@ -35,3 +35,5 @@ I’m starting off with the common situation of laying out buttons.  I want the 
 Now both buttons are the same size and are distributed equally in all devices.  Since the buttons use intrinsic values I wait until the end before updating frames.  **Tip:** Open the Assistant Editor to the Preview page and you’ll be able to see how your constraints are effecting the layout without having to update frames.
 
 ![2 Buttons evenly distributed using auto layout](/images/Autolayout-1.png "2 buttons using auto layout image")
+
+Resuming AutoLayout after vacation.
