@@ -48,3 +48,11 @@ I got to a `Minimum Viable Product` stage and it’s been released in Australia,
 I submitted my version 1.1 update today per schedule, but didn't complete all the items I wanted.  Onboard was the major item and I completed that - nicer than I thought it would turn out. I tweaked the app description a little and left the keywords alone, I've got some good results already.  JPEG compression was also completed.
 
 Unfortunately, I never figure out the Quick Menu item.  It's not so simple when pushing and popping View Controllers and I didn't get enough time to find an answer.  Preloading quotes is another biggie I couldn't complete, again it wasn't as simple as I thought.  I've requested some help, but haven't heard back yet.   I had to stick to the update schedule and the onboarding feature is a great addition anyway.  
+
+#### May 31 MMA Quotes Note
+
+A few modest statistics since MMA Quotes launch...
+* Reached #469 in the USA for iPhones Grossing
+* Topped out at #230 in the USA for iPhone Downloads
+* Featured in South Korea in the Sports Category #198
+* 
