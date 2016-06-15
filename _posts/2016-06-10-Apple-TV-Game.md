@@ -13,6 +13,7 @@ Starting a brief Journal documenting the progress of a new game that I'm buildin
 
 ## Tank Battle Game
 I chose to build a classic tank battle game for several reasons, here's the list...
+
 * Learn the in's and out's of preparing an app for the AppleTV
 * Expand/Practice Swift and SpriteKit
 * Become familiar with tvOS
