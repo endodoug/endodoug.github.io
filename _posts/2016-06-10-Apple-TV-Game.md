@@ -29,5 +29,17 @@ I chose to build a classic tank battle game for several reasons, here's the list
 * Marketing artwork
 * Game Description (outsource)
 
+Add the wins counter was much easier than I was trying to make it out.  I guess you just pass in the info you need win transitioning to a new `GameScene`
 
+    if let scene = GameScene(fileNamed: "Level" + String(levelToLoad)) {
+        
+        scene.currentLevel = theLevelToLoad //
+        scene.blueWins = blueWins
+        scene.greenWins = greenWins
+        scene.forcedOnePlayerMode = forcedOnePlayerMode
+        
+        self.view?.presentScene(scene, transition: SKTransition.fadeWithColor(SKColor.blackColor(), duration: 2))
+        
+      }
+This is working for me, but I need to verify it's the correct way to update my wins SKLabel
 
