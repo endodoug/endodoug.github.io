@@ -46,3 +46,20 @@ This is working for me, but I need to verify it's the correct way to update my w
 
 Got the game sound effects up and running.  I also found a great background song for the Main Menu Scene and have it playing, but I need to change it defer to the user's Music... if playing.  
 
+### 6-18-2016 Update
+
+Added in another song for gameplay background music and researched/figured out how to allow the user's Music to play in the background.
+
+    do {
+      
+      try! AVAudioSession.sharedInstance().setCategory(AVAudioSessionCategoryAmbient)
+      try AVAudioSession.sharedInstance().setActive(true)
+      
+    } catch let error as NSError {
+      
+      print(error)
+      
+    }
+    
+First .setCategory to `AVAudioSessionCategoryAmbient` which makes the app's background music **nonprimary** (app can be used with sound off.)  then .setActive is true to activate the app's audio session. 
+
