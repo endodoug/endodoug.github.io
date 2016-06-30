@@ -28,6 +28,7 @@ I chose to build a classic tank battle game for several reasons, here's the list
 * Ad in Game Center Achievements
 * Marketing artwork
 * Game Description (outsource)
+* Exploding Barrels
 
 Add the wins counter was much easier than I was trying to make it out.  I guess you just pass in the info you need win transitioning to a new `GameScene`
 
@@ -62,4 +63,10 @@ Added in another song for gameplay background music and researched/figured out h
     }
     
 First .setCategory to `AVAudioSessionCategoryAmbient` which makes the app's background music **nonprimary** (app can be used with sound off.)  then .setActive is true to activate the app's audio session. 
+
+### 6-29-2016 Update
+
+After watching [Designing for tvOS](video https://developer.apple.com/videos/play/wwdc2016/802/ "Designing for tvOS video") from WWDC I made some changes.  The main thing was to increase the size of the Tanks, making them easier to see from 10 feet or more.  
+
+Added exploding barrels on the Todo list.
 
