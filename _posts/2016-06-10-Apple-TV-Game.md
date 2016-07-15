@@ -70,3 +70,7 @@ After watching [Designing for tvOS](video https://developer.apple.com/videos/pla
 
 Added exploding barrels on the Todo list.
 
+### 7-15-2016 Update
+
+Submitted for App Store Review!  I created all the Screenshots, Preview video, and description on my own.  If approved, the game will be released in New Zealand and Australia.  I'm hoping to get some insight to see what kind of conversion rate my marketing material is pulling down.
+
