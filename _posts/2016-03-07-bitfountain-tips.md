@@ -27,7 +27,7 @@ You’ll spend a lot of time working in playgrounds, so take maximum advantage o
 
 ## Add Some Dash
 
-I always have Dash open and use it frequently to check the documentation while working along in the tutorials.  I find Dash to be much faster than the Xcode documents and make my own notes when something pops in my head.  Creating autofill snippets for Xcode is another great feature, I hate typing out all those parenthesis in that `arc4random_uniform` code.
+I always have [Dash](https://itunes.apple.com/us/app/dash/id449589707?ls=1&mt=12 "Dash API App") open and use it frequently to check the documentation while working along in the tutorials.  I find Dash to be much faster than the Xcode documents and make my own notes when something pops in my head.  Creating autofill snippets for Xcode is another great feature, I hate typing out all those parenthesis in that `arc4random_uniform` code.
 
 ## Facebook and Slack
 
