@@ -38,9 +38,7 @@ Image Here
 
 ## Prepare Your Icon
 
-For me,U prepping my icons required more work than the actual stickers, the sizes are different than I’m used to.  A few are very small, so consider how your icon will look at a tiny size.  I made a Sketch template that you can download - [iMessage Sticker Icon Template][1].  Just change the icon image and background color then export to your folder.
+For me,U prepping my icons required more work than the actual stickers, the sizes are different than I’m used to.  A few are very small, so consider how your icon will look at a tiny size.  I made a Sketch template that you can download - [iMessage Sticker Icon Template](http://endodoug.github.io/download/iMessage-App-Icon-Template.sketch).  Just change the icon image and background color then export to your folder.
 
 
 
-
-[1]:{{ http://endodoug.github.io }}/download/file.pdf
