@@ -74,3 +74,6 @@ Added exploding barrels on the Todo list.
 
 Submitted for App Store Review!  I created all the Screenshots, Preview video, and description on my own.  If approved, the game will be released in New Zealand and Australia.  I'm hoping to get some insight to see what kind of conversion rate my marketing material is pulling down.
 
+### 7-17-2016 Update
+
+Passed review and **KaBOOM! Tanks of War** is now available in New Zealand and Australia. I went overboard writing a crazy description, but it should be interesting to see what kind of downloads I get.  I also used a yellow background on my icon to make it stand out amoung the sea of normal colors.  
