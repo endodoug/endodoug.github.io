@@ -34,7 +34,7 @@ Stickers come in 3 sizes small, medium, and large.  Currently, I was unable to m
 
 Keep in mind you’ll need to provide Xcode with @3x images, so you’ll be creating your  stickers at 300 x 300 px (small), 408 x 408 px (medium), 618 x 618 px (large) 
 
-Image Here
+![iMessage Sticker in Sketch](/images/iMessage-Stickers.png "iMessage Sticker in Sketch")
 
 ## Prepare Your Icon
 
