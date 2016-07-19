@@ -40,7 +40,7 @@ Keep in mind you’ll need to provide Xcode with @3x images, so you’ll be crea
 
 For me,U prepping my icons required more work than the actual stickers, the sizes are different than I’m used to.  A few are very small, so consider how your icon will look at a tiny size.  I made a Sketch template that you can download - [iMessage Sticker Icon Template](http://endodoug.github.io/download/iMessage-App-Icon-Template.sketch).  Just change the icon image and background color then export to your folder.
 
-##Simple App
+## Simple App
 
 Open Xcode and choose create a sticker Pack app.  Now choose your sticker size, then drag in your artwork.  Next, add in your icons.  That’s it! Run the app to make sure it looks great.
 
