@@ -45,4 +45,5 @@ For me,U prepping my icons required more work than the actual stickers, the size
 Open Xcode and choose create a sticker Pack app.  Now choose your sticker size, then drag in your artwork.  Next, add in your icons.  That’s it! Run the app to make sure it looks great.
 
 {% youtube 1WiEaqsSDQ8 %}
+{% youtube prFohBWIdQg %}
 
