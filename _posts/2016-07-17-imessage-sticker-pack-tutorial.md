@@ -4,7 +4,7 @@ title: "iMessage Sticker Pack Tutorial"
 date: 2016-07-17
 author: Doug Harper
 tags: [Tips, Tutorial, Xcode, apps, iMessage]
-published: true
+published: false
 ---
 
 A Sticker Pack app is a great first project for any developer/artist to get started with iOS.  It’s simple way to get some experience with Xcode and see what it takes to get an app ready for the App Store.  Here’s how to make your own Sticker Pack for iOS 10.
@@ -44,6 +44,4 @@ For me,U prepping my icons required more work than the actual stickers, the size
 
 Open Xcode and choose create a sticker Pack app.  Now choose your sticker size, then drag in your artwork.  Next, add in your icons.  That’s it! Run the app to make sure it looks great.
 
-{% youtube 1WiEaqsSDQ8 %}
-{% youtube prFohBWIdQg %}
 
