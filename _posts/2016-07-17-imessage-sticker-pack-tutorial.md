@@ -9,7 +9,7 @@ published: false
 
 A Sticker Pack app is a great first project for any developer/artist to get started with iOS.  It’s simple way to get some experience with Xcode and see what it takes to get an app ready for the App Store.  Here’s how to make your own Sticker Pack for iOS 10.
 
-Image Here
+![iMessage Sticker Pack](/images/Jelly-Stickers.png "iMessage Sticker Pack on iPhone 6")
 
 ## Requirements
 * Xcode 8 
