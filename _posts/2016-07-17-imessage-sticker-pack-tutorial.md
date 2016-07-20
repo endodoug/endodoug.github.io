@@ -34,15 +34,24 @@ Stickers come in 3 sizes small, medium, and large.  Currently, I was unable to m
 
 Keep in mind you’ll need to provide Xcode with @3x images, so you’ll be creating your  stickers at 300 x 300 px (small), 408 x 408 px (medium), 618 x 618 px (large) 
 
-![iMessage Sticker in Sketch](/images/iMessage-Stickers.png "iMessage Sticker in Sketch")
+![iMessage Sticker in Sketch](/images/JellyStickers.png "iMessage Sticker in Sketch")
 
 ## Prepare Your Icon
 
-For me,U prepping my icons required more work than the actual stickers, the sizes are different than I’m used to.  A few are very small, so consider how your icon will look at a tiny size.  I made a Sketch template that you can download - [iMessage Sticker Icon Template](http://endodoug.github.io/download/iMessage-App-Icon-Template.sketch).  Just change the icon image and background color then export to your folder.
+For me, prepping my icons required more work than the actual stickers, the sizes are different than I’m used to.  A few are very small, so consider how your icon will look at a tiny size.  I made a Sketch template that you can download - [iMessage Sticker Icon Template](http://endodoug.github.io/download/iMessage-App-Icon-Template.sketch).  Just change the icon image and background color then export to your folder.
 
 ## Simple App
 
-Open Xcode and choose create a sticker Pack app.  Now choose your sticker size, then drag in your artwork.  Next, add in your icons.  That’s it! Run the app to make sure it looks great.
+Now the easy part! Creating our Sticker Pack Application.
+
+1. Open Xcode and choose Create a new Xcode project.
+2. In iOS > Application choose Sticker Pack Application.
+3. Name your application and hit the Create button.
+4. Click on the Stickers.xcstickers workspace & open the Sticker Pack Folder.
+5. Drag in the stickers you created and set the sticker size in the Attributes Inspector.
+6. Open the iMessage App Icon. 
+7. Drag in the icons you created, be sure to add any that don't autofill.
+8. Build and Run!  
 
 {% include youtubePlayer.html id="1WiEaqsSDQ8" %}
 
