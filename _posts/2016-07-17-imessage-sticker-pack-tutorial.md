@@ -12,9 +12,9 @@ A Sticker Pack app is a great first project for any developer/artist to get star
 ![iMessage Sticker Pack](/images/Jelly-Stickers.png "iMessage Sticker Pack on iPhone 6")
 
 ## Requirements
-* Xcode 8 
+* [Xcode 8](https://developer.apple.com/xcode/ "Xcode") 
 * Artwork
-* Apple Developer Account - if you want to upload to the App Store 
+* [Apple Developer Account](https://developer.apple.com/programs/ "Apple Developer Account") - if you want to upload to the App Store 
 
 ## Prepare Your Stickers
 
