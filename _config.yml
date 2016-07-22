@@ -1,6 +1,6 @@
 # Site settings
-title: Doug Harper
-description: "Learning Swift & iOS - Companion blog for my Swift education."
+title: Doug Harper 
+description: "Learning Swift & iOS - Companion Blog for my Swift Education."
 baseurl: "" 
 url: "http://endodoug.github.io" 
 tagline: Learning Swift & iOS 
