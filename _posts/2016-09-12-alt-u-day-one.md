@@ -11,7 +11,7 @@ It's been a couple weeks since I attended Five Pack Creative's Alt-U iOS Journey
 
 ## Alt-U Day One
 
-We started off talking about what it takes to move from an apprentice iOS Developer to a journeyman... the ability to take an idea and turn it into an app.  Tons of changes can happen along the way so the best way to handle all the change is through  an agile/iterative process.
+We started off talking about what it takes to move from an apprentice iOS Developer to a journeyman... the ability to take an idea and turn it into an app.  Tons of changes can happen along the way so the best way to handle all the change is through  an agile/iterative process:
 * Define requirements 
 * Develop to the requirments - breaks down big tasks to small pieces
 * Deliver what you develop
@@ -28,3 +28,7 @@ This is called an iteration and can be repeated as needed until you decide the p
 * Velocity - measures points over time to help business plan a release date.
 
 Start writing stories from what can be seen (design, description, etc...), talk about assumptions to get a clear picture of what to develop. Set up a sprint that includes some functionality, deliver it, start the feeback loop and repeat until you have a completed product.
+
+Next we reviewed and discussed Git version control.  Everyone in the class had a good enough working knowledge so we didn't go into great detail, but we spent some time covering the pro's and con's of using rebase.  FivePackCreative uses BitBucket and Tower for version control, but I was using the Source Control built into Xcode without issue.  
+> Tip - Stashes are useful for new ideas that may not be implemented at the current time, but worth saving for the future
+
