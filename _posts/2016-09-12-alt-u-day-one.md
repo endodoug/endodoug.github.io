@@ -32,3 +32,12 @@ Start writing stories from what can be seen (design, description, etc...), talk 
 Next we reviewed and discussed Git version control.  Everyone in the class had a good enough working knowledge so we didn't go into great detail, but we spent some time covering the pro's and con's of using rebase.  FivePackCreative uses BitBucket and Tower for version control, but I was using the Source Control built into Xcode without issue.  
 > Tip - Stashes are useful for new ideas that may not be implemented at the current time, but worth saving for the future
 
+## Flickr Feed Project
+
+We started building a photo viewing project to implement all the topics we're covering.  Jerry took time to walk us through the first part, of what turned out to be an awesome app, using SCRUM methodology.  We set up a collection view and went to town covering a lot of ground:
+- Autolayout
+- Type Alias
+- Helper functions
+- Segue identifier enums and how to implement them. 
+- GCD - Grand Central Dispatch
+- Guard lets - used often, much more than if-let
