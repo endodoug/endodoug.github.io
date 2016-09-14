@@ -35,9 +35,11 @@ Next we reviewed and discussed Git version control.  Everyone in the class had a
 ## Flickr Feed Project
 
 We started building a photo viewing project to implement all the topics we're covering.  Jerry took time to walk us through the first part, of what turned out to be an awesome app, using SCRUM methodology.  We set up a collection view and went to town covering a lot of ground:
-- Autolayout
+
+- Autolayout - autosizing cells
 - Type Alias
 - Helper functions
 - Segue identifier enums and how to implement them. 
 - GCD - Grand Central Dispatch
 - Guard lets - used often, much more than if-let
+
