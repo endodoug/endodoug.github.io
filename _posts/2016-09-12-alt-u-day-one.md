@@ -43,3 +43,11 @@ We started building a photo viewing project to implement all the topics we're co
 - GCD - Grand Central Dispatch
 - Guard lets - used often, much more than if-let
 
+### Autolayout Lab - Autosizing Cells in Collection View
+
+Set up a CollectionViewController and create a UICollectionViewController class for it.  I also created a custom UICollectionViewCell class where I set up IBOutlets for my content.  Make sure to set these classes correctly on the Storyboard.  Next, add constraints and make sure the dynamic items (text label) are constrained to all sides of the cell - **that's the key**.  Finally, add in estimatedItemSize in ViewDidLoad to trigger autosizing -> 
+
+    `guard let cvl = collectionViewLayout as? UICollectionViewFlowLayout else {return print("nothing happening")}
+    cvl.estimatedItemSize = CGSize(width: 100, height: 100)`
+
+I also practiced using a guard here, adding in a custom error message is one of the big advantages over the if-let syntax.
