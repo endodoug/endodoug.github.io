@@ -50,4 +50,25 @@ Set up a CollectionViewController and create a UICollectionViewController class 
     guard let cvl = collectionViewLayout as? UICollectionViewFlowLayout else {return print("nothing happening")}
     cvl.estimatedItemSize = CGSize(width: 100, height: 100)
 
-I also practiced using a guard here, adding in a custom error message is one of the big advantages over the if-let syntax.
+I also practiced using a guard here, adding in a custom error message is one of the big advantages over the if-let syntax. As noted, I noticed Jerry and Chris used guard statements often throughout the course - more than other tutorials I've seen.   These autosizing cells are great and this is just a starting point for build some cool layouts. 
+
+### GCD 
+
+I began this topic with zero knowledge and a little intrepidation, because it seemed complicated.  The work we did in the playground was very helpful in understanding the theory and application.  Although it can get complicated in certain situations, generally it's not difficult.  
+
+iOS has global queues that execute every task, which you can use directly.   Always update UI (main thread) from background thread.  Not doing so can cause unpredictable errors that are difficult to deal with. 
+
+     extension Photo {
+        class func getAllPhotos() {
+            DispatchQueue.global(qos: .userInitiated).async {
+                go get photo data
+            }
+            DispatchQueue.main.async {
+				completion(photos, nil)
+			}
+        }
+    }
+    
+
+### Use Tips in Day One
+`PlaygroundPage.current.needsIndefiniteExecution = true` automatically stops execution. This allows code to run when it depends on something else happening, because playgrounds are constantly updating. 
