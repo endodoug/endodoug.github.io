@@ -87,9 +87,8 @@ Now we can dispatch work asynchronously or synchronously:
 1.  **Asynchronously** - sends work to be done and continues on - does not wait for result.
 2.  **Synchronously** - waits for work to complete before continuing (be careful here)
  
-		`myQueue.async`
-		
-		`myQueue.snyc`
+		myQueue.async
+		myQueue.snyc
 
 
 
