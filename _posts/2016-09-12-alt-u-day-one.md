@@ -12,6 +12,7 @@ It's been a couple weeks since I attended [Five Pack Creative's Alt-U iOS Journe
 ## Alt-U Day One
 
 We started off talking about what it takes to move from an apprentice iOS Developer to a journeyman... the ability to take an idea and turn it into an app.  Tons of changes can happen along the way so the best way to handle all the change is through  an agile/iterative process:
+
 - Define requirements 
 - Develop to the requirments - breaks down big tasks to small pieces
 - Deliver what you develop
@@ -19,6 +20,7 @@ We started off talking about what it takes to move from an apprentice iOS Develo
 - Use feedback to generate additional requirements 
 
 This is called an iteration and can be repeated as needed until you decide the product is ready to ship.  To add some predictability to the process you introduce SCRUM: 
+
 - **Story** or User Story (requirements) - describes a feature or expectation of functionality. Keep it small.
 - **Acceptance Criteria** - important part of any good story, details exactly what is needed (tested) for the story to be completed.
 - **Epic** - a story that is too large to work on.
