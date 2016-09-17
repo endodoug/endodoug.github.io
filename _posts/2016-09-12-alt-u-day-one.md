@@ -4,10 +4,10 @@ title: "Alt-U Day One Recap"
 date: 2016-09-12
 author: Doug Harper
 tags: [Alt-U, iOS, Swift]
-published: false
+published: true
 ---
 
-It's been a couple weeks since I attended Five Pack Creative's Alt-U iOS Journeyman course and I want to revisit some of the material and keep it fresh in my mind.  Writing it down helps me more than just reading over it.  
+It's been a couple weeks since I attended [Five Pack Creative's Alt-U iOS Journeyman](http://www.fivepackcreative.com/ios-journeyman/ "Alt-U iOS Journeyman") course and I want to revisit some of the material and keep it fresh in my mind.  Writing it down helps me more than just reading over it.  
 
 ## Alt-U Day One
 
