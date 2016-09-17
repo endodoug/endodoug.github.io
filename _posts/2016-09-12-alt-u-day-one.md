@@ -72,7 +72,7 @@ iOS has global queues that execute every task, which you can use directly.   Alw
         }
     }
 
-You can create your own Queue's:
+#### You can create your own Queue's:
 
 1.  Specify a label, which will become useful when debugging.
 2.  Serial is the default value, but you can specify concurrent
@@ -90,6 +90,27 @@ Now we can dispatch work asynchronously or synchronously:
 		myQueue.async
 		myQueue.snyc
 
+### Enum for Segue.identifier
+
+We set up an enum for segue identifiers when you need to have multiple segues from an object.  I am currently working on a project (Mobius Sales App) where this makes a lot of sense.  
+
+	private enum SegueIdentifier: String {
+		case goToMyDetailViewController
+	}
+
+Now use a switch in prepareForSegue.  May seem like extra work at first, but if you may be expanding it could save time and it looks pretty cool.
+
+	override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+		guard let identifier = segue.identifier else { return }
+		guard let segueIdentifier = SegueIdentifier(rawValue: identifier) else { return }
+		
+		switch segueIdentifier {
+		case .goToMyDetailViewController:
+			let controller = segue.destination as! MyDetailViewController
+			let cell = sender as! PhotoCell
+			controller.photoToShow = cell.photo
+		}
+	}
 
 
 
