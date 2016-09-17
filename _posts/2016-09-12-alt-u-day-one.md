@@ -79,15 +79,17 @@ You can create your own Queue's:
 	- **Serial** is one job at a time.
 	- **Concurrent** is multiple jobs at a time.
 
-`let myQueue = DispatchQueue(label: "com.myCustomLabel", qos: .userInitiated, attributes: [.serial], autoreleaseFrequency: .inherit)`
+
+		let myQueue = DispatchQueue(label: "com.myCustomLabel", qos: .userInitiated, attributes: [.serial], autoreleaseFrequency: .inherit)
 
 Now we can dispatch work asynchronously or synchronously:
 
 1.  **Asynchronously** - sends work to be done and continues on - does not wait for result.
 2.  **Synchronously** - waits for work to complete before continuing (be careful here)
-
-> `myQueue.async`
-> `myQueue.snyc`
+ 
+		`myQueue.async`
+		
+		`myQueue.snyc`
 
 
 
