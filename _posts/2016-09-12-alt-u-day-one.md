@@ -78,7 +78,7 @@ You can create your own Queue's:
 2.  Serial is the default value, but you can specify concurrent
 	- **Serial** is one job at a time.
 	- **Concurrent** is multiple jobs at a time.
-
+	 
 
 			let myQueue = DispatchQueue(label: "com.myCustomLabel", qos: .userInitiated, attributes: [.serial], autoreleaseFrequency: .inherit)
 
