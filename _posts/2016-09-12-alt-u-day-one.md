@@ -87,8 +87,8 @@ Now we can dispatch work asynchronously or synchronously:
 > `myQueue.snyc`
 
 
-    
+
 
 ### Tips in Day One
-`PlaygroundPage.current.needsIndefiniteExecution = true` keeps the page executing. This allows code to run when it depends on something else happening, because the playground may stop executing before our code runs.
-`PlaygroundPage.current.finishExecution()` stops the execution.
+- `PlaygroundPage.current.needsIndefiniteExecution = true` keeps the page executing. This allows code to run when it depends on something else happening, because the playground may stop executing before our code runs.
+- `PlaygroundPage.current.finishExecution()` stops the execution.
