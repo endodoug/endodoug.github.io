@@ -50,7 +50,7 @@ Set up a CollectionViewController and create a UICollectionViewController class 
     guard let cvl = collectionViewLayout as? UICollectionViewFlowLayout else {return print("nothing happening")}
     cvl.estimatedItemSize = CGSize(width: 100, height: 100)
 
-I also practiced using a guard here, adding in a custom error message is one of the big advantages over the if-let syntax. As noted, I noticed Jerry and Chris used guard statements often throughout the course - more than other tutorials I've seen.   These autosizing cells are great and this is just a starting point for build some cool layouts. 
+I also practiced using a guard here, adding in a custom error message is one of the big advantages over the if-let syntax. As noted, I noticed Jerry and Chris used guard statements often throughout the course - more than other tutorials I've seen.   These autosizing cells are great and this is just a starting point for building some cool layouts. 
 
 ### GCD 
 
@@ -92,3 +92,5 @@ Now we can dispatch work asynchronously or synchronously:
 ### Tips in Day One
 - `PlaygroundPage.current.needsIndefiniteExecution = true` keeps the page executing. This allows code to run when it depends on something else happening, because the playground may stop executing before our code runs.
 - `PlaygroundPage.current.finishExecution()` stops the execution.
+-  Git Stashes are useful for new ideas that may not be implemented at the current time, but worth saving for the future.
+
