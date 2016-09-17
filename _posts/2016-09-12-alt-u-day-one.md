@@ -80,7 +80,7 @@ You can create your own Queue's:
 	- **Concurrent** is multiple jobs at a time.
 
 
-		let myQueue = DispatchQueue(label: "com.myCustomLabel", qos: .userInitiated, attributes: [.serial], autoreleaseFrequency: .inherit)
+			let myQueue = DispatchQueue(label: "com.myCustomLabel", qos: .userInitiated, attributes: [.serial], autoreleaseFrequency: .inherit)
 
 Now we can dispatch work asynchronously or synchronously:
 
