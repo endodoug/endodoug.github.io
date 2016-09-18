@@ -98,7 +98,7 @@ We set up an enum for segue identifiers when you need to have multiple segues fr
 		case goToMyDetailViewController
 	}
 
-Now use a switch in prepareForSegue.  May seem like extra work at first, but if you may be expanding it could save time and it looks pretty cool.
+Now use a switch in prepareForSegue.  This may seem like extra work at first, but if you might be expanding in the future it could save time and it looks pretty cool.
 
 	override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
 		guard let identifier = segue.identifier else { return }
