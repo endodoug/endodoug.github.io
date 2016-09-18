@@ -112,6 +112,19 @@ Now use a switch in prepareForSegue.  May seem like extra work at first, but if 
 		}
 	}
 
+### Type Alias
+
+I've seen `typealias` often mentioned on twitter/forums/Swifty blogs but never looked into it much until we discussed it here.  There's a great article by Ash Furrow discussing them -> [Swift Type Aliases: Use Early and Often](http://artsy.github.io/blog/2016/06/24/typealias-for-great-good/ "Type Aliases: Use Early and Often").  Type aliases simply allow you to define existing types with an identifying name of your choosing.  We set one up in the Photo+Services extension:
+
+		typealias PhotosResult = ([Photo]?, Error?) -> Void
+		
+This a perfect example for me because I hate typing in all those parenthesis and brackets. Now we can reuse `PhotosResult` anytime we need it and... it autofills.
+
+		func getAllPlistPhotos( resourceUrl: URL, completion: **PhotoResult** ) {
+		}
+		vs
+		func getAllPlistPhotos( resourceUrl: URL, completion: ([Photo]?, Error?) ) {
+		}
 
 
 ### Tips in Day One
