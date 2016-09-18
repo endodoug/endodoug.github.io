@@ -120,9 +120,11 @@ I've seen `typealias` often mentioned on twitter/forums/Swifty blogs but never l
 		
 This a perfect example for me because I hate typing in all those parenthesis and brackets. Now we can reuse `PhotosResult` anytime we need it and... it autofills.
 
-		func getAllPlistPhotos( resourceUrl: URL, completion: **PhotoResult** ) {
+		func getAllPlistPhotos( resourceUrl: URL, completion: PhotosResult ) {
 		}
+		
 		vs
+		
 		func getAllPlistPhotos( resourceUrl: URL, completion: ([Photo]?, Error?) ) {
 		}
 
