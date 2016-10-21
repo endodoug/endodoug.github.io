@@ -6,6 +6,7 @@ author: Doug Harper
 tags: [Alt-U, iOS, Swift]
 published: false
 ---
+![Alt-U](/images/Alt-U-Desk.jpg "Learning iOS and Swift at Alt-U")
 
 It’s been almost 2 months since I attended [Alt-U’s iOS Journeyman Course](http://www.fivepackcreative.com/ios-journeyman/ "Alt-U Journeyman Bootcamp") and I’d like to take some time to write down a few thoughts about it. 
 
