@@ -7,11 +7,11 @@ tags: [Alt-U, iOS, Swift]
 published: false
 ---
 
-It’s been almost 2 months since I attended Alt-U’s iOS Journeyman Course and I’d like to take some time to write down a few thoughts about it. 
+It’s been almost 2 months since I attended [Alt-U’s iOS Journeyman Course](http://www.fivepackcreative.com/ios-journeyman/ "Alt-U Journeyman Bootcamp") and I’d like to take some time to write down a few thoughts about it. 
 
-I’m self-taught, primarily studying Apple Documentation and Ray Wanderlich tutorials.  I’ve been curious about boot camps but nothing seemed to make sense in my current situation.  Fortunately, this opportunity presented itself and I was able to take advantage of it.  
+I’m self-taught, primarily studying Apple Documentation and [Ray Wenderlich](https://www.raywenderlich.com "RayWenderlich.com") tutorials.  I’ve been curious about bootcamps but nothing seemed to make sense in my current situation.  Fortunately, this opportunity presented itself and I was able to take advantage of it.  
 
-The Journeyman course is “designed for experienced programmers and iOS developers looking to go to the next level with iOS development and the Swift programming language,” which is exactly where I was.  Turns out… some of the content was an insightful review, while other parts were difficult for me.  All in all, I’d say the curriculum was a great mix.
+The Journeyman course is *“designed for experienced programmers and iOS developers looking to go to the next level with iOS development and the Swift programming language,”* which is exactly where I was.  Turns out… some of the content was an insightful review, while other parts were difficult for me.  All in all, I’d say the curriculum was a great mix.
 
 We had 3 instructors for a class of 8 students.  Niles Musgrave, Jerry Beers and Chris Griffith, all seasoned developers, were a great source of information and kept things moving along smoothly. As a group, we ran into couple bugs (Xcode 8 beta) which provided the unintended benefit of seeing how pros went about problem-solving.  A powerful teaching technique they utilized was Chris live coding, while Jerry pointed out details on the screen or taking trips down various rabbit holes.  For me it, it added extra insight and kept the focus on what we were doing - I often go code-blind when learning new material.
 
