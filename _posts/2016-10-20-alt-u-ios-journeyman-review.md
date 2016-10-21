@@ -36,7 +36,7 @@ Over the 5 days, I must have had 20 A-ha moments.  I immediately implemented 3 t
 - State Restoration - makes the app much more user-friendly
 - Constraint animations - added some cool points
 
-I should have come armed with more questions from apps I previously worked on.  There was plenty of opportunities to get help one-on-one with the instructors, who were more than happy to help us with our current projects e.g. Jerry explained how an unwind segue would work for a particular situation in one of my apps and detailed why it was the best solution.  
+I should have come armed with more questions from apps I previously worked on.  There was plenty of opportunities to get help one-on-one with the instructors, who were more than happy to help us with our current projects *e.g. Jerry explained how an unwind segue would work for a particular situation in one of my apps and detailed why it was the best solution.* 
 
 It was great to meet the other students, hear their stories and discuss iOS development.  I hope to run into some of them in the future to see how they’re progressing. 
 
