@@ -29,7 +29,7 @@ Flickr Feed Day One Topics:
 - GCD - Grand Central Dispatch
 - Guard lets - used often, much more than if-let
 
-GCD/Concurrency was covered thoroughly, we spent a lot of time learning/discussing/coding in a playground.  It’s a complicated topic and I’ve always been a little intimidated by GCD, but Jerry did an excellent job with the playground - it is crystal clear and will never leave my desktop.  Our Flickr Feed project gave us several opportunities to implement what we learned here, in fact, we used it 4 out of the 5 days. 
+GCD/Concurrency was covered thoroughly, we spent a lot of time learning/discussing/coding in a playground.  It’s a complicated topic and I’ve always been a little intimidated by GCD, but Jerry did an excellent job with the playground - it is crystal clear and will never leave my desktop. Our Flickr Feed project gave us several opportunities to implement what we learned here, in fact, we used it 4 out of the 5 days. 
 
 Over the 5 days, I must have had 20 A-ha moments.  I immediately implemented 3 things I learned into a current project being developed for a local business: 
 
