@@ -37,7 +37,7 @@ Flickr Feed Day One Topics:
 
 GCD/Concurrency was covered thoroughly, we spent a lot of time learning/discussing/coding in a playground.  It’s a complicated topic and I’ve always been a little intimidated by GCD, but Jerry did an excellent job with the playground - it is crystal clear and will never leave my desktop. Our Flickr Feed project gave us several opportunities to implement what we learned here, in fact, we used it 4 out of the 5 days. 
 
-Over the 5 days, I must have had 20 A-ha moments.  I immediately implemented 3 things I learned into a current project being developed for a local business: 
+In addition to concurrency, we dove deep into other big topics like Accessability, Architecture, Core Location & MapKit, and Local Storage. There were many smaller features discussed along way, a couple of my favorites were 3D Touch and Notifications.   Over the 5 days, I must have had 20 A-ha moments.  I immediately implemented 3 such things into a current project being developed for a local business: 
 
 - Using a SafariViewController - saved me a lot of time.
 - State Restoration - makes the app much more user-friendly.
@@ -45,8 +45,10 @@ Over the 5 days, I must have had 20 A-ha moments.  I immediately implemented 3 t
 
 ## Wrapping Up
 
-I should have come armed with more questions from apps I previously worked on.  There was plenty of opportunities to get help one-on-one with the instructors, who were more than happy to help us with our current projects *e.g. Jerry explained how an unwind segue would work for a particular situation in one of my apps and detailed why it was the best solution.* 
+I should have come armed with more questions from apps I previously worked on.  There was plenty of opportunities to get help one-on-one with the instructors, who were more than happy to help us with our current projects *e.g. Jerry explained how an unwind segue would work for a particular situation in one of my apps and detailed why it was the best solution.*  
 
-It was great to meet the other students, hear their stories and discuss iOS development.  In fact, this is a huge benefit Alt-U has over online courses.  It's motivating and inspiring to see other developers excited about learning iOS/Swift. 
+It was great to meet the other students, hear their stories and discuss iOS development.  In fact, this is a huge benefit Alt-U has over online courses.  It's motivating and inspiring to see other developers excited about learning iOS/Swift.  I hope to run into a few of them in future to see how we're progressing.  
+
+All in all, I had a great time and learned much more than anticipated.  
 
 
