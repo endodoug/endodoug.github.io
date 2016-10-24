@@ -4,7 +4,7 @@ title: "Alt-U iOS Journeyman Recap"
 date: 2016-10-20
 author: Doug Harper
 tags: [Alt-U, iOS, Swift]
-published: false
+published: true
 ---
 ![Alt-U](/images/Alt-U-Desk.jpg "Learning iOS and Swift at Alt-U")
 
