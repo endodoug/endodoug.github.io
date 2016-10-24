@@ -20,11 +20,11 @@ We had 3 instructors for a class of 8 students.  Nyle Musgrave, Jerry Beers and 
 
 ![Alt-U Instructors](/images/Alt-U-Instructors.jpg "Alt-U Instructors")
 
-The process of transforming an idea into an app was an important big-picture focus of the Journeyman course.  I already had my own workable way of using GitHub and Trello, so it was comforting to see experienced programmers using similar methods.  One of my biggest takeaways was another big-picture sort of thing… overall app structure.  I’ve done tutorials and looked into tons of project files, but never get to see the how’s & why’s an entire project is put together - everything is usually in the file navigator ready to go.  Jerry and Chris did a great job of explaining the thought process of each step as we moved along.
+The process of transforming an idea into an app was an important big-picture focus of the Journeyman course.  I already had my own workable way of using GitHub and Trello, so it was comforting to see experienced programmers using similar methods.  One of my biggest takeaways was another big-picture sort of thing… overall app structure.  I’ve done tutorials and looked into tons of project files, but never get to see the how’s & why’s an entire project is put together - everything is usually in the file navigator ready to go.  Jerry and Chris did a great job of explaining the thought process for each step as we moved along.
 
 ## iOS Journeyman Project - Flickr Feed
 
-The course project was a Flickr Feed, it’s awesome, which required us to integrate some of the latest iOS 10 features.  I’m not going to rehash the all the coding, here're my [Alt-U Day One](http://endodoug.github.io/blog/alt-u-day-one "Alt-U Day One") notes to give you an idea.  You’ll see we covered a lot of ground, but I felt everything was discussed thoroughly and we mixed a couple labs.
+The course project was Flickr Feed, it’s awesome, which required us to integrate some of the latest iOS 10 features.  I’m not going to rehash the all the coding, here're my [Alt-U Day One](http://endodoug.github.io/blog/alt-u-day-one "Alt-U Day One") notes to give you an idea.  You’ll see we covered a lot of ground, but I felt everything was discussed thoroughly and we mixed a couple labs to get some hands on practice.
 
 Flickr Feed Day One Topics:
 
