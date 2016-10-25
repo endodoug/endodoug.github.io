@@ -18,8 +18,8 @@ Here's a list of resources I found helpful in learing Swift, iOS, and tools of t
 [RayWenderlich.com](http://www.raywenderlich.com "Ray Wenderlich.com")
 : Best website for iOS developers with lots of free tutorials & in-depth video tutorials for subscribers.
 
-[BitFountain](https://www.bitfountain.io "BitFountain.com")
-: Online iOS Education site.  Provides in-depth video tutorials covering the latest Swift features.  The site I'm using.
+[Alt-U](http://www.fivepackcreative.com/alt-u/ "Alt-U")
+: iOS Bootcamp presented by Five Pack Creative.  They offer Apprentice, Journeyman and Master sessions.  I attended the Journeyman course in Dallas. 
 
 [CartoonSmart](http://cartoonsmart.com/ref/511/ "CartoonSmart")
 : The best site for learning Sprite Kit.  Lots of great free content for subscribers too.  Another site I subscribe to.
