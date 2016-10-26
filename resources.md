@@ -24,6 +24,11 @@ Here's a list of resources I found helpful in learing Swift, iOS, and tools of t
 [CartoonSmart](http://cartoonsmart.com/ref/511/ "CartoonSmart")
 : The best site for learning Sprite Kit.  Lots of great free content for subscribers too.  Another site I subscribe to.
 
+### Books
+
+[Playground Secrets and Power Tips](https://geo.itunes.apple.com/us/book/playground-secrets-power-tips/id982838034?mt=11&at=11lJNj "Playground Secrets and Power Tips")
+: Playground Secrets and Power Tips - Erica Sadun is by far the best resource for taking a deep dive into Xcode Playgrounds
+
 ### Jekyll
 
 [Official site](http://jekyllrb.com/ "Official Jekyll site")
