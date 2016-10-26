@@ -5,7 +5,7 @@ title: Resources
 
 Here's a list of resources I found helpful in learing Swift, iOS, and tools of the trade.
 
-## Swift
+### Swift
 
 [Swift Blog](https://developer.apple.com/swift/blog/ "Official Swift Blog")
 : Keep up to date with the latest news directly from the Swift team at Apple.
@@ -13,7 +13,7 @@ Here's a list of resources I found helpful in learing Swift, iOS, and tools of t
 [Swift.org](https://swift.org "Swift.org")
 : Official Swift Open Source site.
 
-## Education
+### Education
 
 [RayWenderlich.com](http://www.raywenderlich.com "Ray Wenderlich.com")
 : Best website for iOS developers with lots of free tutorials & in-depth video tutorials for subscribers.
@@ -24,17 +24,17 @@ Here's a list of resources I found helpful in learing Swift, iOS, and tools of t
 [CartoonSmart](http://cartoonsmart.com/ref/511/ "CartoonSmart")
 : The best site for learning Sprite Kit.  Lots of great free content for subscribers too.  Another site I subscribe to.
 
-## Books
+### Books
 
 [Playground Secrets and Power Tips](https://geo.itunes.apple.com/us/book/playground-secrets-power-tips/id982838034?mt=11&at=11lJNj "Playground Secrets and Power Tips")
 : Playground Secrets and Power Tips - Erica Sadun is by far the best resource for taking a deep dive into Xcode Playgrounds
 
-## Jekyll
+### Jekyll
 
 [Official site](http://jekyllrb.com/ "Official Jekyll site")
 : Jekyll home page. Features help, documentation, and news about Jekyll. This site is built with Jekyll.
 
-## Markdown
+### Markdown
 
 [Daring Fireball](http://daringfireball.net/projects/markdown/syntax "markdown syntax")
 : Markdown syntax reference written by John Gruber, creator of Markdown. I use markdown for this blog, Github readme files, and **Xcode Playgrounds**
