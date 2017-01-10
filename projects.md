@@ -20,7 +20,7 @@ Super versatile quote library that allows you to create your own quotes and shar
 
 One of my first apps.  I went for a super-nichey theme based on the Netflix show, which turned out to be a good strategy.  OITNB Word Search reached #1 for Word Games in the App Store and was featured in several different countries and categories.  This app is currently still available, but needs an update before we kick off next season.  Written in Obj-C because Swift was available at the time.
 
-# Magical Forest Memory Match 
+## Magical Forest Memory Match 
 
 I am currently working to add more features to this cute little game.  Initially a learning project that I'm revisiting because my 3 year old is always asking to play... why not improve it for him and see if other kids think the same.  I love the art work and actually put the soundtrack together on my own.  Created with SpriteKit. 
 
