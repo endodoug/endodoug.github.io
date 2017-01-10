@@ -3,9 +3,7 @@ layout: page
 title: Projects
 ---
 
-I've been working on iOS apps since June of 2014 and published more than 10 in the App Store.  Here's a few of my recent apps and a couple other projects I enjoyed working on. 
-
-![Mobius Therapeutics Image](/images/MobiusImage.png "Mobius iOS App")
+I've been working on iOS apps since June of 2014 and published more than 10 in the App Store.  Here's a few of my recent apps and a couple other projects I enjoyed working on.  [iOS Apps by Doug Harper](https://itunes.apple.com/us/developer/doug-harper/id885299622 "iOS Apps by Doug Harper")
 
 ## Mobius Therapeutics
 
