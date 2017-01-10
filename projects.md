@@ -12,7 +12,7 @@ I started working for Mobius in the second half of 2016 and published their Cust
 ## Pocket Ninja Stickers
 When iOS 10 was released I think every developer made at least one Sticker Pack for iMessages.  It was super easy and fun, although my paid strategy may not have been wise.  This guy features a couple animated ninjas to release at the appropiate time.  
 
-# MMA Quotes 
+## MMA Quotes 
 
 Super versatile quote library that allows you to create your own quotes and share them via social media. It includes a facial recogition feature that pulls the author/fighter image from Wikipedia and adds it to your quote.  With the release of iOS 10 I introduced a Today Widget which shows random qoutes from your collection on the lock screen, which added immense value to the app. 
 
