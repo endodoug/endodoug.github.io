@@ -7,7 +7,7 @@ tags: [Tips, Tutorial, Xcode, apps, iMessage]
 published: true
 ---
 
-A Sticker Pack app is a great first project for any developer/artist to get started with iOS.  It’s simple way to get some experience with Xcode and see what it takes to get an app ready for the App Store.  Here’s how to make your own Sticker Pack for iOS 10.
+A Sticker Pack app is a great first project for any developer/artist to get started with iOS.  It’s simple way to get some experience with Xcode and see what it takes to get an app ready for the App Store.   Here’s how to make your own Sticker Pack for iOS 10, just like [Pocket Ninja](https://itunes.apple.com/us/app/pocket-ninja-stickers/id1130768510?ls=1&mt=8 "Pocket Ninja iMessage Stickers")
 
 ![iMessage Sticker Pack](/images/Jelly-Stickers.png "iMessage Sticker Pack on iPhone 6")
 
