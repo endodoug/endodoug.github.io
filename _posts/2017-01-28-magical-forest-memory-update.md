@@ -18,7 +18,7 @@ Here's the plan (Phase 1):
 * Add some more acheivements
 * Remove a bug in the current game - reshuffle after complete game
 
-A cool little note about something I discovered.  While converting from Swift 2.3 to Swift 3 I found a simple technique for implementing a Fisher-Yates shuffle already exists in GameplayKit.  It's a huge time saver for me... 
+A cool little note about something I discovered.  While converting from Swift 2.3 to Swift 3 I found a simple technique for implementing a Fisher-Yates [shuffle already exists in GameplayKit](https://developer.apple.com/reference/gameplaykit/gkrandomsource#//apple_ref/occ/instm/GKRandomSource/arrayByShufflingObjectsInArray: "Random shuffle in GamePlayKit").  It's a huge time saver for me... 
 
      func shuffle<C: MutableCollectionType where C.Index == Int>(list: C) -> C {
 
