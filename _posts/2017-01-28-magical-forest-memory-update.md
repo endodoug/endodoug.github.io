@@ -18,5 +18,25 @@ Here's the plan (Phase 1):
 * Add some more acheivements
 * Remove a bug in the current game - reshuffle after complete game
 
+A cool little note about something I discovered.  While converting from Swift 2.3 to Swift 3 I found a simple technique for implementing a Fisher-Yates shuffle already exists in GameplayKit.  It's a huge time saver for me... 
 
- 
+     func shuffle<C: MutableCollectionType where C.Index == Int>(list: C) -> C {
+
+         var theList = list
+
+         let shufflecount = theList.count
+         for i in 0..<(shufflecount - 1) {
+           let j = Int(arc4random_uniform(UInt32(shufflecount - i))) + i
+           if i != j {
+             swap(&theList[i], &theList[j])
+           }
+         }
+         return theList 
+       }
+       
+Replaced with this...
+
+    let newSequence = GKRandomSource.sharedRandom().arrayByShufflingObjects(in: cardsSequence)
+
+
+
