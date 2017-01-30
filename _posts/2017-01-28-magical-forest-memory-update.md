@@ -9,7 +9,7 @@ published: true
 
 I am starting a complete overhaul of [Magical Forest Memory Match](https://itunes.apple.com/us/app/magical-forest-memory-match/id984939318?ls=1&mt=8 "Magical Forest Memory Match"), which I made as a SpriteKit learning project.  Currently, it's a simple one scene memory game that tracks your best score.  There's not much to it, but my 3 yr-old likes it and asks for it specifically.  So, my plan is to make a few more levels with the art work I currently have.  
 
-Here's the plan (Phase 1):
+## Here's the plan (Phase 1):
 
 * Create a Main Menu scene
 * Create a Game Over scene
@@ -37,6 +37,12 @@ A cool little note about something I discovered.  While converting from Swift 2.
 Replaced with this...
 
     let newSequence = GKRandomSource.sharedRandom().arrayByShufflingObjects(in: cardsSequence)
+    
+    
+### Jan 29th
 
+I tracked down the reshuffle bug using some simple print statements and found the array holding the cards needed to be reset before re-shuffling after a completed game.  
+
+Added the Main Menu and Game Over scenes.  They're both just placeholders for now, my next step is to add some functionality to them and then complete the design.  
 
 
