@@ -53,3 +53,5 @@ Over the last few days I created the Main Menu and Game Over scenes spending alo
 - Added a new Menu class for any menu to inherit from.  
 - Added some artwork for the new menus, subject to change of course.
 - Created Level 2 and included some dummy material.
+
+I'm getting lots of ideas while working on the update, but don't want to make this a "never ending project."  So, I've been writing them down and self-evaluating the effort vs reward.  For now, I'm going to find some better sound effects for matches, misses and game over... something more kid friendly and less jarring.  I'm also going to change the character reveal actions to the cool animation effect I learned at Alt-U.  It's really smooth, looks great and will be worth the effort to improve overall quality of the game.
