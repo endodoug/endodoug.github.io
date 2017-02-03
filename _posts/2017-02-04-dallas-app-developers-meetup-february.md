@@ -31,6 +31,8 @@ Watch the App Store features and Apple’s apps for guidance on design. Keep it 
 
 ## Monetization 
 
+![App Monetization Image](/images/App-Monetization.png)
+
 - Should be considered before you begin coding.
 - Ask for reviews or In-app purchases at optimal times in the game/app.
 - Study successful apps within your category to see how they are monetizing.
