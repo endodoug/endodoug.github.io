@@ -45,4 +45,11 @@ I tracked down the reshuffle bug using some simple print statements and found th
 
 Added the Main Menu and Game Over scenes.  They're both just placeholders for now, my next step is to add some functionality to them and then complete the design.  
 
+### Feb 3rd 
 
+Over the last few days I created the Main Menu and Game Over scenes spending alot of time researching ways to improve the code I had already written.  I guess it was a good excercise, but I should have thought about how much time it cost me to save a few lines of code.  I'm still tweaking the artwork, button placement, & transitions for each menu, but the functionality works good.  A few things accomplished: 
+
+- Moved the background music code to a seperate file so all the scenes have access to it and can start/stop when needed.
+- Added a new Menu class for any menu to inherit from.  
+- Added some artwork for the new menus, subject to change of course.
+- Created Level 2 and included some dummy material.
