@@ -55,3 +55,15 @@ Over the last few days I created the Main Menu and Game Over scenes spending alo
 - Created Level 2 and included some dummy material.
 
 I'm getting lots of ideas while working on the update, but don't want to make this a "never ending project."  So, I've been writing them down and self-evaluating the effort vs reward.  For now, I'm going to find some better sound effects for matches, misses and game over... something more kid friendly and less jarring.  I'm also going to change the character reveal actions to the cool animation effect I learned at Alt-U.  It's really smooth, looks great and will be worth the effort to improve overall quality of the game.
+
+### Feb 7th
+
+I've made a lot of progress in the last few days and it's starting to come together nicely.  Tonight was an accidental live demo with my son, he cleared levels 1 & 2 without help.  It was much more fun for him than the original version and he had a lot of excitement getting the matches.  
+
+- Completed the Main Menu.
+- Three "free" levels are functional.
+- Added user default keys for each level to record a best score for individual levels.
+- Added a rate buttun to the Main Menu and it links directly to the reviews tab in the App Store.
+- Added a button click animation to the Main Menu buttons.
+
+Although the levels are all functional, I need to tweak the card sizes and reveal animations to for levels 2 & 3.  I've got to start a client project next week, so I need to focus my attention and get this done before the weekend is over.
