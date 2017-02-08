@@ -63,7 +63,7 @@ I've made a lot of progress in the last few days and it's starting to come toget
 - Completed the Main Menu.
 - Three "free" levels are functional.
 - Added user default keys for each level to record a best score for individual levels.
-- Added a rate buttun to the Main Menu and it links directly to the reviews tab in the App Store.
+- Added a rate button to the Main Menu and it links directly to the reviews tab in the App Store.
 - Added a button click animation to the Main Menu buttons.
 
 Although the levels are all functional, I need to tweak the card sizes and reveal animations to for levels 2 & 3.  I've got to start a client project next week, so I need to focus my attention and get this done before the weekend is over.
