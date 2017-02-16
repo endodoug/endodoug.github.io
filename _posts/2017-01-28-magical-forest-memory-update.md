@@ -67,3 +67,7 @@ I've made a lot of progress in the last few days and it's starting to come toget
 - Added a button click animation to the Main Menu buttons.
 
 Although the levels are all functional, I need to tweak the card sizes and reveal animations to for levels 2 & 3.  I've got to start a client project next week, so I need to focus my attention and get this done before the weekend is over.
+
+### Feb 15th
+
+Added In-App purchase option to buy two new levels. For the re-launch, I'm adding bigger/more difficult levels as premium options.  The next update will include premium options that will be more kid/learning friendly, I hope to get some feedback before the next update so I can polish it a little more.  The two new levels are also completely functional, the only thing left is to add a few acheivements and a Leaderboard for the final level.
