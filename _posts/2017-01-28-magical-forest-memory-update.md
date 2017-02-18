@@ -71,3 +71,7 @@ Although the levels are all functional, I need to tweak the card sizes and revea
 ### Feb 15th
 
 Added In-App purchase option to buy two new levels. For the re-launch, I'm adding bigger/more difficult levels as premium options.  The next update will include premium options that will be more kid/learning friendly, I hope to get some feedback before the next update so I can polish it a little more.  The two new levels are also completely functional, the only thing left is to add a few acheivements and a Leaderboard for the final level.
+
+### Feb 18th
+
+Removed the GameCenter Leaderboard for all level except the final level, which is the most difficult and only available as in-app purchase.  I also added the restore button for in-app purchasing and included another button to display GameCenter's Achievements.  Finally, I went into iTunesConnect and created a new version, supplied new screenshots, descriptions, et... then submitted the update for review.  Everything went smooth and the new/improved [Magical Forest Memory Match](https://itunes.apple.com/us/app/magical-forest-memory-match/id984939318?ls=1&mt=8 "Magical Forest Memory Match Game") is available in the App Store.  It took a little longer than I anticipated but it was well worth it.  
