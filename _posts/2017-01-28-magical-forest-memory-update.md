@@ -75,3 +75,14 @@ Added In-App purchase option to buy two new levels. For the re-launch, I'm addin
 ### Feb 18th
 
 Removed the GameCenter Leaderboard for all level except the final level, which is the most difficult and only available as in-app purchase.  I also added the restore button for in-app purchasing and included another button to display GameCenter's Achievements.  Finally, I went into iTunesConnect and created a new version, supplied new screenshots, descriptions, et... then submitted the update for review.  Everything went smooth and the new/improved [Magical Forest Memory Match](https://itunes.apple.com/us/app/magical-forest-memory-match/id984939318?ls=1&mt=8 "Magical Forest Memory Match Game") is available in the App Store.  It took a little longer than I anticipated but it was well worth it.  
+
+### Feb 23rd
+
+I added in some Twitter Fabric - Answers code so I can track downloads and events.  I'm hoping to get a couple benefits from this update. 
+
+1.  I can track app installs, so I'll be able to run an effective ad campaign on Twitter - paying for successful app installs instead of link clinks, which is pretty much a waste of money.
+2. Fabric has some built-in events for games -> Level Start and Level End.  This is great to see how players are interacting within the game.
+
+For the next update I'm going to track button clicks on my in-app purchase button to see if I can improve on the look of the purchase option & see what kind of conversion rate I'm getting.  
+
+This update also include a tweak to the character reveal transition.  I added an animated pop to the character.
