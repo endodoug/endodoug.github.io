@@ -35,7 +35,7 @@ JSON Strings that create a JavaScript Object always start and end with curly bra
 
 ## Receiving JSON Data
 
-
+Most of the time I'm the one receiving data and then putting it into my app or website.  A couple important points to keep in mind... JSON Data always includes key/value pairs & JSON keys **must** be strings with double quotes -> "jsonKey"
 
 <p data-height="182" data-theme-id="0" data-slug-hash="VpbLJM" data-default-tab="js" data-user="endodoug" data-embed-version="2" data-pen-title="JSON Basics - Receive Data" class="codepen">See the Pen <a href="http://codepen.io/endodoug/pen/VpbLJM/">JSON Basics - Receive Data</a> by doug harper (<a href="http://codepen.io/endodoug">@endodoug</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
