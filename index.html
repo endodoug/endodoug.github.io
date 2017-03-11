@@ -10,7 +10,19 @@ layout: default
       </header>
       
       <!-- Image -->
-      <img src="{{ site.baseurl }}/images/{{ post.image }}">
+     <!--  <img src="{{ site.baseurl }}/images/{{ post.image }}"> -->
+      {% assign foundImage = 0 %}
+      {% assign images = post.content | split:"<img " %}
+      {% for image in images %}
+        {% if image contains 'src' %}
+
+            {% if foundImage == 0 %}
+                {% assign html = image | split:"/>" | first %}
+                <img {{ html }} />
+                {% assign foundImage = 1 %}
+            {% endif %}
+        {% endif %}
+      {% endfor %}
       
       
       <p>{{ post.excerpt | strip_html }} <a href="{{site.baseurl}}{{ post.url }}" class="more" title="read more">read more</a></p>
