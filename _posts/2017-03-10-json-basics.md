@@ -43,6 +43,5 @@ JSON Strings that create a JavaScript Object always start and end with curly bra
 2. Convert the string to a JavaScript object. parse() is a function that converts a string to a JavaScript object.
 3. Do something with the new object, like displaying it `<p id="demo"></p>`
 
-<p data-height="182" data-theme-id="0" data-slug-hash="VpbLJM" data-default-tab="js,result" data-user="endodoug" data-embed-version="2" data-pen-title="JSON Basics - Receive Data" class="codepen">See the Pen <a href="http://codepen.io/endodoug/pen/VpbLJM/">JSON Basics - Receive Data</a> by doug harper (<a href="http://codepen.io/endodoug">@endodoug</a>) on <a href="http://codepen.io">CodePen</a>.</p>
-
+<p data-height="182" data-theme-id="0" data-slug-hash="VpbLJM" data-default-tab="js" data-user="endodoug" data-embed-version="2" data-pen-title="JSON Basics - Receive Data" class="codepen">See the Pen <a href="http://codepen.io/endodoug/pen/VpbLJM/">JSON Basics - Receive Data</a> by doug harper (<a href="http://codepen.io/endodoug">@endodoug</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
