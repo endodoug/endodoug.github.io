@@ -24,9 +24,9 @@ JSON Strings that create a JavaScript Object always start and end with curly bra
 
 ## Sending JSON Data
 
-    ```var myJavaScriptObject = {“name”: “John Snow”, “title”: “King of the North”}; //1
+    var myJavaScriptObject = {“name”: “John Snow”, “title”: “King of the North”}; //1
     var myJavaScriptObjectConvertingToJSON = JSON.stringify(myJavaScriptObject); //2
-    .send(myJavaScriptObjectConvertingToJSON); //3```
+    .send(myJavaScriptObjectConvertingToJSON); //3
 
 
 1. Store data in a JavaScript object.
@@ -35,9 +35,11 @@ JSON Strings that create a JavaScript Object always start and end with curly bra
 
 ## Receiving JSON Data
 
-1. JSON received is comes as a string.
-2. Convert the string to a JavaScript object. parse() is a function that converts a string to a JavaScript object.
-3. Do something with the new object, like displaying it `<h1 id="hello"></h1>`
+
 
 <p data-height="182" data-theme-id="0" data-slug-hash="VpbLJM" data-default-tab="js" data-user="endodoug" data-embed-version="2" data-pen-title="JSON Basics - Receive Data" class="codepen">See the Pen <a href="http://codepen.io/endodoug/pen/VpbLJM/">JSON Basics - Receive Data</a> by doug harper (<a href="http://codepen.io/endodoug">@endodoug</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+
+1. JSON received is comes as a string.
+2. Convert the string to a JavaScript object. parse() is a function that converts a string to a JavaScript object.
+3. Do something with the new object, like displaying it `<h1 id="hello"></h1>`
