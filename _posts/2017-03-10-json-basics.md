@@ -26,7 +26,7 @@ JSON Strings that create a JavaScript Object always start and end with curly bra
 
 ## Sending JSON Data
 
-{% highlight javascript lineos%}
+{% highlight ruby lineos%}
     var myJavaScriptObject = {“name”: “John Snow”, “title”: “King of the North”}; //1
     var myJavaScriptObjectConvertingToJSON = JSON.stringify(myJavaScriptObject); //2
     .send(myJavaScriptObjectConvertingToJSON); //3
