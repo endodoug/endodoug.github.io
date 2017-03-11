@@ -15,9 +15,9 @@ I’m tired of *“sorta”* understanding JSON and fighting with it in my proje
 
 Writing about enums a while back was very helpful to my overall understanding and how to use them effectively.  Hopefully I'll get the same benefit after I write a few posts about JSON.  Honestly, slowing down and writing about the very basics of JSON has been extremely helpful already. 
 
-<div class="note">
+
 An interesting little thing… after spending my time working with Swift exclusively, I feel very comfortable using Javascript and noticed many similarities. 
-</div>
+
 
 ## JSON Data Basics - Recognition
 
