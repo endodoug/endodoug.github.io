@@ -30,8 +30,8 @@ JSON Strings that create a JavaScript Object always start and end with curly bra
 
 
 1. Store data in a JavaScript object.
-2. Convert the object to JSON. stringify() is a function that creates a string from the object.
-3. Send it to the server.
+2. Convert the object to JSON. stringify() is a function that creates a string (text) from the object.
+3. Send it (text) to the server.
 
 ## Receiving JSON Data
 
@@ -40,6 +40,6 @@ Most of the time I'm the one receiving data and then putting it into my app or w
 <p data-height="182" data-theme-id="0" data-slug-hash="VpbLJM" data-default-tab="js" data-user="endodoug" data-embed-version="2" data-pen-title="JSON Basics - Receive Data" class="codepen">See the Pen <a href="http://codepen.io/endodoug/pen/VpbLJM/">JSON Basics - Receive Data</a> by doug harper (<a href="http://codepen.io/endodoug">@endodoug</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
-1. JSON received is comes as a string.
-2. Convert the string to a JavaScript object. parse() is a function that converts a string to a JavaScript object.
+1. JSON received is comes as a string (text.)
+2. Convert the string (text) to a JavaScript object. parse() is a function that converts a string to a JavaScript object.
 3. Do something with the new object, like displaying it `<h1 id="hello"></h1>`
