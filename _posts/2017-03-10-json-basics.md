@@ -26,10 +26,11 @@ JSON Strings that create a JavaScript Object always start and end with curly bra
 
 ## Sending JSON Data
 
+{% highlight ruby %}
     var myJavaScriptObject = {“name”: “John Snow”, “title”: “King of the North”}; //1
     var myJavaScriptObjectConvertingToJSON = JSON.stringify(myJavaScriptObject); //2
     .send(myJavaScriptObjectConvertingToJSON); //3
-
+{% endhighlight %}
 
 1. Store data in a JavaScript object.
 2. Convert the object to JSON. stringify() is a function that creates a string (text) from the object.
