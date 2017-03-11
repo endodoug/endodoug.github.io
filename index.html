@@ -9,9 +9,9 @@ layout: default
         <time itemprop="dateCreated" datetime="{{post.date}}">{{ post.date | date: "%B %-d, %Y" }}</time>
       </header>
       
-      //IMAGE
+      <!-- Image -->
       <img src="{{ site.baseurl }}/images/{{ post.image }}">
-      //IMAGE
+      
       
       <p>{{ post.excerpt | strip_html }} <a href="{{site.baseurl}}{{ post.url }}" class="more" title="read more">read more</a></p>
       <footer>
