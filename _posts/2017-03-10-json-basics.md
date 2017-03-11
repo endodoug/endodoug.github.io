@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "JSON Basics"
-image: /images/JSON.png
+image: JSON.png
 date: 2017-03-10
 author: Doug Harper
 tags: [Fundamentals, JavaScript, JSON]
