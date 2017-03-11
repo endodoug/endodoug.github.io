@@ -6,7 +6,7 @@ author: Doug Harper
 tags: [Fundamentals, JavaScript, JSON]
 published: true
 ---
-
+![JSON Basics](/images/JSON.png "JSON Basics Header Image")
 
 I’m tired of *“sorta”* understanding JSON and fighting with it in my projects, so I’m committing myself to learning the in’s-n-out’s over the next month.  My plan is start with the basics and move along in separate blog posts.
 
