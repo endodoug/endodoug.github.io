@@ -2,6 +2,7 @@
 layout: post
 title: "Dallas App Developers February Meetup"
 date: 2017-02-04
+image: App-Monetization.png
 author: Doug Harper
 tags: [Weekly Notes, apps, planning, Tips]
 published: true
