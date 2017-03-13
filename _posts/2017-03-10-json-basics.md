@@ -13,7 +13,7 @@ I’m tired of *“sorta”* understanding JSON and fighting with it in my proje
 
 ![JSON Basics](/images/JSON.png "JSON Basics Header Image")
 
-Writing about [enums](_posts/2016-03-14-exploring-enums.md) a while back was very helpful to my overall understanding and how to use them effectively.  Hopefully I'll get the same benefit after I write a few posts about JSON.  Honestly, slowing down and writing about the very basics of JSON has been extremely helpful already. 
+Writing about [enums](http://endodoug.github.io/blog/json-basics) a while back was very helpful to my overall understanding and how to use them effectively.  Hopefully I'll get the same benefit after I write a few posts about JSON.  Honestly, slowing down and writing about the very basics of JSON has been extremely helpful already. 
 
 
 An interesting little thing… after spending my time working with Swift exclusively, I feel very comfortable using Javascript and noticed many similarities. 
@@ -21,7 +21,9 @@ An interesting little thing… after spending my time working with Swift exclusi
 
 ## JSON Data Basics - Recognition
 
-JSON Strings that create a JavaScript Object always start and end with curly braces.  I get this, but didn't really understand what it meant.  
+>JSON Strings that create a JavaScript Object always start and end with curly braces.  
+
+I get this, but didn't really *understand* what it meant until breaking it down.
 
 - JSON is text - a browser and a server can only exchange text data.  
 - JSON can be converted into a JavaScript object and vice versa.
@@ -32,11 +34,11 @@ JSON Strings that create a JavaScript Object always start and end with curly bra
     {% highlight javascript %}
       var myJavaScriptObject = {“name”: “John Snow”, “title”: “King of the North”}; //1
       var myJavaScriptObjectConvertingToJSON = JSON.stringify(myJavaScriptObject); //2
-      .send(myJavaScriptObjectConvertingToJSON); //3
+      window.location = "example_url.php" + myJavaScriptObject; //3
     {% endhighlight %}
 
 1. Store data in a JavaScript object.
-2. Convert the object to JSON. stringify() is a function that creates a string (text) from the object.
+2. Convert the object to JSON. `stringify()` is a function that creates a string (text) from the object.
 3. Send it (text) to the server.
 
 ## Receiving JSON Data
@@ -49,3 +51,5 @@ Most of the time I'm the one receiving data and then putting it into my app or w
 1. JSON received is comes as a string (text.)
 2. Convert the string (text) to a JavaScript object. parse() is a function that converts a string to a JavaScript object.
 3. Do something with the new object, like displaying it `<h1 id="hello"></h1>`
+
+Next up -> See how this plays out with Swift.
