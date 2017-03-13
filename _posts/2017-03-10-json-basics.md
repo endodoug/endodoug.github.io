@@ -54,6 +54,7 @@ Most of the time I'm the one receiving data and then putting it into my app or w
 
 Next up -> See how this plays out with Swift.
 
-Educational Sources:
-[Lynda.com - Processing and Interchanging JSON Data](https://www.lynda.com/Web-Development-tutorials/Processing-Interchanging-JSON-Data/560344-2.html "Processing JSON via Lynda.com") by Sasha Vodnic
-[W3Schools](https://www.w3schools.com/js/default.asp "JSON Introduction")
+### Educational Sources:
+
+- [Lynda.com - Processing and Interchanging JSON Data](https://www.lynda.com/Web-Development-tutorials/Processing-Interchanging-JSON-Data/560344-2.html "Processing JSON via Lynda.com") by Sasha Vodnic
+- [W3Schools](https://www.w3schools.com/js/default.asp "JSON Introduction")
