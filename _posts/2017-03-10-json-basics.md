@@ -8,10 +8,9 @@ tags: [Fundamentals, JavaScript, JSON]
 published: true
 ---
 
+![JSON Basics](/images/JSON.png "JSON Basics Header Image")
 
 I’m tired of *“sorta”* understanding JSON and fighting with it in my projects, so I’m committing myself to learning the in’s-n-out’s over the next month.  My plan is start with the basics and move along in separate blog posts.
-
-![JSON Basics](/images/JSON.png "JSON Basics Header Image")
 
 Writing about [enums](https://endodoug.github.io/blog/exploring-enums "Exploring Enums") a while back was very helpful to my overall understanding and how to use them effectively.  Hopefully I'll get the same benefit after I write a few posts about JSON.  Honestly, slowing down and writing about the very basics of JSON has been extremely helpful already. 
 
