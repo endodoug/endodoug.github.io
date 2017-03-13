@@ -13,7 +13,7 @@ I’m tired of *“sorta”* understanding JSON and fighting with it in my proje
 
 ![JSON Basics](/images/JSON.png "JSON Basics Header Image")
 
-Writing about [enums](https://github.com/endodoug/endodoug.github.io/blob/master) a while back was very helpful to my overall understanding and how to use them effectively.  Hopefully I'll get the same benefit after I write a few posts about JSON.  Honestly, slowing down and writing about the very basics of JSON has been extremely helpful already. 
+Writing about [enums](_posts/2016-03-14-exploring-enums.md) a while back was very helpful to my overall understanding and how to use them effectively.  Hopefully I'll get the same benefit after I write a few posts about JSON.  Honestly, slowing down and writing about the very basics of JSON has been extremely helpful already. 
 
 
 An interesting little thing… after spending my time working with Swift exclusively, I feel very comfortable using Javascript and noticed many similarities. 
