@@ -49,7 +49,11 @@ Most of the time I'm the one receiving data and then putting it into my app or w
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 1. JSON received is comes as a string (text.)
-2. Convert the string (text) to a JavaScript object. parse() is a function that converts a string to a JavaScript object.
+2. Convert the string (text) to a JavaScript object. `parse()` is a function that converts a string to a JavaScript object.
 3. Do something with the new object, like displaying it `<h1 id="hello"></h1>`
 
 Next up -> See how this plays out with Swift.
+
+Educational Sources:
+[Lynda.com - Processing and Interchanging JSON Data](https://www.lynda.com/Web-Development-tutorials/Processing-Interchanging-JSON-Data/560344-2.html "Processing JSON via Lynda.com") by Sasha Vodnic
+[W3Schools])https://www.w3schools.com/js/default.asp "JSON Introduction"
