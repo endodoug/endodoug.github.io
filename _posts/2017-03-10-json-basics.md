@@ -56,4 +56,4 @@ Next up -> See how this plays out with Swift.
 
 Educational Sources:
 [Lynda.com - Processing and Interchanging JSON Data](https://www.lynda.com/Web-Development-tutorials/Processing-Interchanging-JSON-Data/560344-2.html "Processing JSON via Lynda.com") by Sasha Vodnic
-[W3Schools])https://www.w3schools.com/js/default.asp "JSON Introduction"
+[W3Schools](https://www.w3schools.com/js/default.asp "JSON Introduction")
