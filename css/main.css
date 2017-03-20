@@ -794,3 +794,14 @@ a.more {
 	text-align: center;
 }
 }
+/* -------------------------------------------------
+	note callouts
+---------------------------------------------------*/
+.note h5 {
+  line-height: 1.5em;
+  font-weight: 900;
+  font-style: normal;
+  color: white;
+  font-size: 1em;
+  margin: 0;
+}
