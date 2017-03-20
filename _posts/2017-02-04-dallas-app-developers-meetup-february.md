@@ -31,7 +31,7 @@ Watch the App Store features and Apple’s apps for guidance on design. Keep it 
 
 <div class="note">
   <h5>Time Saving Tip</h5>
-  <p>One of the great advantages of using UIKit's native elements is they are always **automatically** updated whenever Apple releases a new iOS version. </p>
+  <p>One of the great advantages of using UIKit's native elements is they are always automatically updated whenever Apple releases a new iOS version. </p>
 </div>
 
 
