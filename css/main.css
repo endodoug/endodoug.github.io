@@ -827,7 +827,7 @@ a.more {
 background-color:  #0389aa;
   background-image: linear-gradient(to bottom, #0389aa 0%, #00617f 100%);
 }
-.note::after {
+.note:after {
   content: '\2727';
   color: white;
   position: absolute;
