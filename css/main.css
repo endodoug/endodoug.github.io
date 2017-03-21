@@ -827,3 +827,13 @@ a.more {
 background-color:  #0389aa;
   background-image: linear-gradient(to bottom, #0389aa 0%, #00617f 100%);
 }
+.note::after {
+  content: '\2727';
+  color: white;
+  position: absolute;
+  top: 40px;
+  left: 25px;
+  font-size: 32px;
+  font-weight: 700px;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.5);
+}
