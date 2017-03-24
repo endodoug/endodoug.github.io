@@ -23,3 +23,6 @@ I get it.  So I'm pulling those apps from the app store until I can get them pro
 - Orange is the New Black Word Search -> Consistent money maker.  Priority to get this one back up before OITNB Season 5 hits Neflix.
 - July 4th Word Search -> Since Trump was elected this guy has been getting some action. Probably gets some new content and back in the lineup.  
 
+### March 24th Update
+
+The July 4th Word Search game has been updated, approved and back on the App Store.  The process was pretty smooth, although I do not enjoy working with Obj-C.  I made a few minor tweaks to overall look and feel of the game which took a little more time than I anticipated, but added some nice improvements.  
