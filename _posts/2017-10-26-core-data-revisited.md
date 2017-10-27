@@ -38,11 +38,11 @@ This was way over my head the first time I was introduced to Core Data, but seem
   - set the value you want save with the attribute key `company.setValue(nameTextField.text, forKey: "name")` 
   
 3. **Save the Context**
-    do { 
-        try context.save() 
-       } catch let saveErr {
-        print("Failed to save company: ", saveErr) 
-        }
+      do { 
+          try context.save() 
+        } catch let saveErr {
+          print("Failed to save company: ", saveErr) 
+          }
   
 In most situations Intializing the Core Data Stack is done as a singleton in it's own file/class or within the AppDelegate.  When you chose to allow Xcode adding Core Data in your project, the stack will automatically be create at the bottom of the AppDelegate.
 
