@@ -27,7 +27,9 @@ Xcode does a little work behind the scenes to create a couple hidden files that 
 
 This was way over my head the first time I was introduced to Core Data, but seems to make sense now.  I'm going to break it down to 3 steps, each with a few things to accomplish:
 
-1. Initialize the Core Data Stack
+1. **Initialize the Core Data Stack**
   a. create a `NSPersistentContainer`.
   b. load Persistent Stores -> the closure checks if stores are loaded correctly.
+2. **Create Object to Save**
+  a. 
 
