@@ -7,7 +7,7 @@ tags: [core data, swift]
 published: true
 ---
 
-Why revisit Core Data?  Early in my Swift/iOS learning I tackled Core Data and used it within MMA Quotes, but honestly... I didn't understand much of what was going on. I have a much better understanding of iOs now and jumped on an opportunity to go through Core Data again, which seems like good idea since it's an important part in so many apps.   
+Why revisit Core Data?  Early in my Swift/iOS learning I tackled Core Data and used it within MMA Quotes, but honestly... I didn't understand much of what was going on. I have a much better understanding of iOS now and jumped on an opportunity to go through Core Data again, which seems like good idea since it's an important part in so many apps.   
 
 I'll be focusing on setting up Core Data on my own first and then working through the Xcode pre-baked version so I can contrast the two.  The typical use-case for Core Data Tutorials is always some kind of list, which is exactly what I'll be creating as a tableview.
 
