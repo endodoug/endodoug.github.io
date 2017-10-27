@@ -32,7 +32,6 @@ This was way over my head the first time I was introduced to Core Data, but seem
   - load Persistent Stores `container.loadPersistentStores` -> the closure checks if stores are loaded correctly.
   
 2. **Create an object to save**
-
   - create a context(sort of a scratchpad) `let context = persistentContainer.ViewContext`
   - create your object & insert into the context `let company = NSEntityDescription.insertNewObject(for EntityName: Entity, into: context)`
   - set the value you want save with the attribute key `company.setValue(nameTextField.text, forKey: "name")` 
