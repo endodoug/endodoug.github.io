@@ -44,7 +44,7 @@ This was way over my head the first time I was introduced to Core Data, but seem
             print("Failed to save company: ", saveErr)
             }
   
-In most situations Intializing the Core Data Stack is done as a singleton in it's own file/class or within the AppDelegate.  If you chosse to allow Xcode to create Core Data in your project, the stack will automatically be created at the bottom of the AppDelegate.
+In most situations Intializing the Core Data Stack is done as a singleton in it's own file/class or within the AppDelegate.  If you choose to allow Xcode to create Core Data in your project, the stack will automatically be created at the bottom of the AppDelegate.
 
 So far, I have just saved my object into Core Data. Next, I'll fetch it and do something with it.
   
