@@ -4,7 +4,7 @@ title: "Core Data Revisited"
 date: 2017-10-26
 author: Doug Harper
 tags: [core data, swift]
-published: false
+published: true
 ---
 
 Why revisit Core Data?  Early in my Swift/iOS learning I tackled Core Data and used it within MMA Quotes, but honestly... I didn't understand much of what was going on. I have a much better understanding of iOs now and jumped on an opportunity to go through Core Data again, which seems like good idea since it's an important part in so many apps.   
