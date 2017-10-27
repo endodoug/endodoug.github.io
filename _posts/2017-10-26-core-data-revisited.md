@@ -28,13 +28,13 @@ Xcode does a little work behind the scenes to create a couple hidden files that 
 This was way over my head the first time I was introduced to Core Data, but seems to make sense now.  I'm going to break it down to 3 steps, each with a few things to accomplish:
 
 1. **Initialize the Core Data Stack**
-  - create a `let persistentContainer = NSPersistentContainer(name: NSManagedObject)`.
-  - load Persistent Stores `container.loadPersistentStores` -> the closure checks if stores are loaded correctly.
+ - create a `let persistentContainer = NSPersistentContainer(name: NSManagedObject)`.
+ - load Persistent Stores `container.loadPersistentStores` -> the closure checks if stores are loaded correctly.
   
 2. **Create an object to save**
-  - create a context(sort of a scratchpad) `let context = persistentContainer.ViewContext`
-  - create your object & insert into the context `let company = NSEntityDescription.insertNewObject(for EntityName: Entity, into: context)`
-  - set the value you want save with the attribute key `company.setValue(nameTextField.text, forKey: "name")` 
+ - create a context(sort of a scratchpad) `let context = persistentContainer.ViewContext`
+ - create your object & insert into the context `let company = NSEntityDescription.insertNewObject(for EntityName: Entity, into: context)`
+ - set the value you want save with the attribute key `company.setValue(nameTextField.text, forKey: "name")` 
   
 3. **Save the Context**
       do { 
