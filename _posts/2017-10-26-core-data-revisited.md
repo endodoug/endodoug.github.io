@@ -28,18 +28,20 @@ Xcode does a little work behind the scenes to create a couple hidden files that 
 This was way over my head the first time I was introduced to Core Data, but seems to make sense now.  I'm going to break it down to 3 steps, each with a few things to accomplish:
 
 1. **Initialize the Core Data Stack**
-  a. create a `let persistentContainer = NSPersistentContainer(name: NSManagedObject)`.
-  b. load Persistent Stores `container.loadPersistentStores` -> the closure checks if stores are loaded correctly.
+  - create a `let persistentContainer = NSPersistentContainer(name: NSManagedObject)`.
+  - load Persistent Stores `container.loadPersistentStores` -> the closure checks if stores are loaded correctly.
   
 2. **Create an object to save**
 
-  a. create a context(sort of a scratchpad) `let context = persistentContainer.ViewContext`
-  b. create your object & insert into the context `let company = NSEntityDescription.insertNewObject(for EntityName: Entity, into: context)`
-  c. set the value you want save with the attribute key `company.setValue(nameTextField.text, forKey: "name")` 
+  - create a context(sort of a scratchpad) `let context = persistentContainer.ViewContext`
+  - create your object & insert into the context `let company = NSEntityDescription.insertNewObject(for EntityName: Entity, into: context)`
+  - set the value you want save with the attribute key `company.setValue(nameTextField.text, forKey: "name")` 
   
 3. **Save the Context**
   `do { try context.save() } catch let saveErr { print("Failed to save company: ", saveErr) }`
   
 In most situations Intializing the Core Data Stack is done as a singleton in it's own file/class or within the AppDelegate.  When you chose to allow Xcode adding Core Data in your project, the stack will automatically be create at the bottom of the AppDelegate.
+
+So far, I have just saved my object into Core Data. Next, I'll fetch it and do something with it.
   
 
