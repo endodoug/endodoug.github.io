@@ -20,5 +20,8 @@ Google has added several wrinkles since I previously worked with websites and SE
 
 There are more opportunities to capture visibility and that is something that I'll be working on as I maintain the site.
 
+### Stain DFence
+My venture back into websites continued with another project I picked up.  It's a local [fence staining](http://staindfence.com "fence staining") company that's just getting started.  They need more than just a site... Local Seo, PPC, link building, rich snippets, analytics, monitoring reviews, etc.  All kinds of fun stuff.
+
 
  
