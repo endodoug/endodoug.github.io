@@ -23,5 +23,8 @@ There are more opportunities to capture visibility and that is something that I'
 ### Stain DFence
 My venture back into websites continued with another project I picked up.  It's a local [fence staining](http://staindfence.com "fence staining") company that's just getting started.  They need more than just a site... Local Seo, PPC, link building, rich snippets, analytics, monitoring reviews, etc.  All kinds of fun stuff.
 
+### Zewkey MMA Parlay Calculator
+This is a fun project where I built and implemented a [parlay calculator](https://zewkey.com/betting_tools/parlay_calculator.htm "parlay calculator") app for a UFC betting site.  I used Vue.js to add a sign-in with google authentication along with a few reactive features like quotes, a poll, and hiding/adding text.  It's already got some google traction, but needs more backlinks to move up the rankings.
+
 
  
